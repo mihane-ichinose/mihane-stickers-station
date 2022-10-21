@@ -24,89 +24,14 @@ export default function Info({ open, handleClose }) {
         <DialogContent>
           <DialogContentText id="alert-dialog-description">
             <Typography variant="h6" component="h3">
-              This tool made possible by:
-            </Typography>
-            <List>
-              <ListItem
-                button
-                onClick={() =>
-                  (window.location.href = "https://github.com/theoriginalayaka")
-                }
-              >
-                <ListItemAvatar>
-                  <Avatar
-                    alt="Ayaka"
-                    src="https://avatars.githubusercontent.com/theoriginalayaka"
-                  />
-                </ListItemAvatar>
-                <ListItemText
-                  primary="Ayaka"
-                  secondary="for the original idea"
-                />
-              </ListItem>
-              <ListItem
-                button
-                onClick={() =>
-                  (window.location.href = "https://github.com/modder4869")
-                }
-              >
-                <ListItemAvatar>
-                  <Avatar
-                    alt="Modder4869"
-                    src="https://avatars.githubusercontent.com/modder4869"
-                  />
-                </ListItemAvatar>
-                <ListItemText
-                  primary="Modder4869"
-                  secondary="for the help with the code"
-                />
-              </ListItem>
-              <ListItem
-                button
-                onClick={() =>
-                  (window.location.href =
-                    "https://www.reddit.com/r/ProjectSekai/comments/x1h4v1/after_an_ungodly_amount_of_time_i_finally_made/")
-                }
-              >
-                <ListItemAvatar>
-                  <Avatar
-                    alt="u/SherenPlaysGames"
-                    src="https://styles.redditmedia.com/t5_mygft/styles/profileIcon_n1kman41j5891.jpg"
-                  />
-                </ListItemAvatar>
-                <ListItemText
-                  primary="u/SherenPlaysGames"
-                  secondary="for the original stamps"
-                />
-              </ListItem>
-              <ListItem
-                button
-                onClick={() =>
-                  (window.location.href =
-                    "https://github.com/TheOriginalAyaka/sekai-stickers/graphs/contributors")
-                }
-              >
-                <ListItemAvatar>
-                  <Avatar
-                    alt="Contributors"
-                    src="https://avatars.githubusercontent.com/u/583231"
-                  />
-                </ListItemAvatar>
-                <ListItemText
-                  primary="Contributors"
-                  secondary="for the help with the code"
-                />
-              </ListItem>
-            </List>
-            <Typography variant="h6" component="h3">
-              You can find the source code or contribute here:
+              Modified for Genshin Impact from here:
             </Typography>
             <List>
               <ListItem
                 button
                 onClick={() =>
                   (window.location.href =
-                    "https://github.com/TheOriginalAyaka/sekai-stickers")
+                    "https://st.ayaka.one/")
                 }
               >
                 <ListItemAvatar>
@@ -115,7 +40,7 @@ export default function Info({ open, handleClose }) {
                     src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
                   />
                 </ListItemAvatar>
-                <ListItemText primary="GitHub" secondary="Source Code" />
+                <ListItemText primary="Sekai Impact Stickers" secondary="Source Code" />
               </ListItem>
             </List>
           </DialogContentText>
