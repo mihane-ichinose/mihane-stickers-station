@@ -1,9 +1,7 @@
 # Genshin Impact Stickers
 
-help is welcome, got some skill issues so dont judge me ![img](https://cdn.discordapp.com/emojis/999338712255180921.webp?size=28&quality=lossless)
+Updated with Genshin Impact stickers from the Sekai Stickers project [here](https://github.com/TheOriginalAyaka/sekai-stickers)
 
-## credit
+## Credit
 
--original stickers from [twitter](https://twitter.com/lumie_lumie/status/1509158554300825601)
-
--website and original (Sekai Project) by Ayaka#4715 on discord
+Original stickers from [twitter](https://twitter.com/lumie_lumie/status/1509158554300825601)
