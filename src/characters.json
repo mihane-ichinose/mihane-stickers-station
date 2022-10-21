@@ -1,12 +1,12 @@
 [
     {
         "id": "3",
-        "name": "Airi 01",
-        "character": "airi",
-        "img": "airi/Airi_01.png",
+        "name": "aether1",
+        "character": "aether",
+        "img": "aether/aether1.png",
         "color": "#FB8AAC",
         "defaultText": {
-            "text": "keep up",
+            "text": "something",
             "x": 148,
             "y": 58,
             "r": -2,
@@ -15,37 +15,51 @@
     },
     {
         "id": "4",
-        "name": "Airi 02",
-        "character": "airi",
-        "img": "airi/Airi_02.png",
+        "name": "aether2",
+        "character": "aether",
+        "img": "aether/aether2.png",
         "color": "#FB8AAC",
         "defaultText": {
-            "text": "nice to meet ya",
+            "text": "something",
             "x": 148,
             "y": 58,
-            "r": 0,
-            "s": 28
+            "r": -2,
+            "s": 47
         }
     },
     {
         "id": "5",
-        "name": "Airi 03",
-        "character": "airi",
-        "img": "airi/Airi_03.png",
+        "name": "albedo1",
+        "character": "albedo",
+        "img": "albedo/albedo1.png",
         "color": "#FB8AAC",
         "defaultText": {
-            "text": "keep at it!",
-            "x": 140,
-            "y": 79,
-            "r": 2,
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
             "s": 47
         }
     },
     {
         "id": "6",
-        "name": "Airi 04",
-        "character": "airi",
-        "img": "airi/Airi_04.png",
+        "name": "albedo2",
+        "character": "albedo",
+        "img": "albedo/albedo2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "7",
+        "name": "albedo3",
+        "character": "albedo",
+        "img": "albedo/albedo3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -57,9 +71,9 @@
     },
     {
         "id": "8",
-        "name": "Airi 06",
-        "character": "airi",
-        "img": "airi/Airi_06.png",
+        "name": "albedo4",
+        "character": "albedo",
+        "img": "albedo/albedo4.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -71,9 +85,9 @@
     },
     {
         "id": "9",
-        "name": "Airi 07",
-        "character": "airi",
-        "img": "airi/Airi_07.png",
+        "name": "albedo5",
+        "character": "albedo",
+        "img": "albedo/albedo5.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -85,9 +99,9 @@
     },
     {
         "id": "10",
-        "name": "Airi 08",
-        "character": "airi",
-        "img": "airi/Airi_08.png",
+        "name": "albedo6",
+        "character": "albedo",
+        "img": "albedo/albedo6.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -99,9 +113,23 @@
     },
     {
         "id": "11",
-        "name": "Airi 09",
-        "character": "airi",
-        "img": "airi/Airi_09.png",
+        "name": "albedo7",
+        "character": "albedo",
+        "img": "albedo/albedo7.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "12",
+        "name": "amber1",
+        "character": "amber",
+        "img": "amber/amber1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -113,9 +141,9 @@
     },
     {
         "id": "13",
-        "name": "Airi 11",
-        "character": "airi",
-        "img": "airi/Airi_11.png",
+        "name": "amber2",
+        "character": "amber",
+        "img": "amber/amber2.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -127,9 +155,9 @@
     },
     {
         "id": "14",
-        "name": "Airi 12",
-        "character": "airi",
-        "img": "airi/Airi_12.png",
+        "name": "amber3",
+        "character": "amber",
+        "img": "amber/amber3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -141,9 +169,9 @@
     },
     {
         "id": "15",
-        "name": "Airi 13",
-        "character": "airi",
-        "img": "airi/Airi_13.png",
+        "name": "ayaka1",
+        "character": "ayaka",
+        "img": "ayaka/ayaka1.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -155,9 +183,23 @@
     },
     {
         "id": "16",
-        "name": "Airi 14",
-        "character": "airi",
-        "img": "airi/Airi_14.png",
+        "name": "ayaka2",
+        "character": "ayaka",
+        "img": "ayaka/ayaka2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "17",
+        "name": "ayaka3",
+        "character": "ayaka",
+        "img": "ayaka/ayaka3.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -169,9 +211,9 @@
     },
     {
         "id": "18",
-        "name": "Airi 16",
-        "character": "airi",
-        "img": "airi/Airi_16.png",
+        "name": "ayaka4",
+        "character": "ayaka",
+        "img": "ayaka/ayaka4.png",
         "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
@@ -183,10 +225,10 @@
     },
     {
         "id": "19",
-        "name": "Akito 01",
-        "character": "akito",
-        "img": "akito/Akito_01.png",
-        "color": "#FF7722",
+        "name": "ayaka5",
+        "character": "ayaka",
+        "img": "ayaka/ayaka5.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -197,10 +239,10 @@
     },
     {
         "id": "20",
-        "name": "Akito 02",
-        "character": "akito",
-        "img": "akito/Akito_02.png",
-        "color": "#FF7722",
+        "name": "ayaka6",
+        "character": "ayaka",
+        "img": "ayaka/ayaka6.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -211,10 +253,10 @@
     },
     {
         "id": "21",
-        "name": "Akito 03",
-        "character": "akito",
-        "img": "akito/Akito_03.png",
-        "color": "#FF7722",
+        "name": "ayaka7",
+        "character": "ayaka",
+        "img": "ayaka/ayaka7.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -225,10 +267,24 @@
     },
     {
         "id": "22",
-        "name": "Akito 04",
-        "character": "akito",
-        "img": "akito/Akito_04.png",
-        "color": "#FF7722",
+        "name": "ayaka8",
+        "character": "ayaka",
+        "img": "ayaka/ayaka8.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "23",
+        "name": "ayato1",
+        "character": "ayato",
+        "img": "ayato/ayato1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -239,10 +295,10 @@
     },
     {
         "id": "24",
-        "name": "Akito 06",
-        "character": "akito",
-        "img": "akito/Akito_06.png",
-        "color": "#FF7722",
+        "name": "ayato2",
+        "character": "ayato",
+        "img": "ayato/ayato2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -253,10 +309,10 @@
     },
     {
         "id": "25",
-        "name": "Akito 07",
-        "character": "akito",
-        "img": "akito/Akito_07.png",
-        "color": "#FF7722",
+        "name": "ayato3",
+        "character": "ayato",
+        "img": "ayato/ayato3.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -267,10 +323,10 @@
     },
     {
         "id": "26",
-        "name": "Akito 08",
-        "character": "akito",
-        "img": "akito/Akito_08.png",
-        "color": "#FF7722",
+        "name": "ayato4",
+        "character": "ayato",
+        "img": "ayato/ayato4.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -281,10 +337,24 @@
     },
     {
         "id": "27",
-        "name": "Akito 09",
-        "character": "akito",
-        "img": "akito/Akito_09.png",
-        "color": "#FF7722",
+        "name": "barbara1",
+        "character": "barbara",
+        "img": "barbara/barbara1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "28",
+        "name": "barbara2",
+        "character": "barbara",
+        "img": "barbara/barbara2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -295,10 +365,10 @@
     },
     {
         "id": "29",
-        "name": "Akito 11",
-        "character": "akito",
-        "img": "akito/Akito_11.png",
-        "color": "#FF7722",
+        "name": "barbara3",
+        "character": "barbara",
+        "img": "barbara/barbara3.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -309,10 +379,10 @@
     },
     {
         "id": "30",
-        "name": "Akito 12",
-        "character": "akito",
-        "img": "akito/Akito_12.png",
-        "color": "#FF7722",
+        "name": "barbara4",
+        "character": "barbara",
+        "img": "barbara/barbara4.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -323,10 +393,10 @@
     },
     {
         "id": "31",
-        "name": "Akito 13",
-        "character": "akito",
-        "img": "akito/Akito_13.png",
-        "color": "#FF7722",
+        "name": "beidou1",
+        "character": "beidou",
+        "img": "beidou/beidou1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -337,10 +407,10 @@
     },
     {
         "id": "32",
-        "name": "Akito 14",
-        "character": "akito",
-        "img": "akito/Akito_14.png",
-        "color": "#FF7722",
+        "name": "beidou2",
+        "character": "beidou",
+        "img": "beidou/beidou2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -351,10 +421,10 @@
     },
     {
         "id": "33",
-        "name": "Akito 16",
-        "character": "akito",
-        "img": "akito/Akito_16.png",
-        "color": "#FF7722",
+        "name": "childe1",
+        "character": "childe",
+        "img": "childe/childe1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -365,10 +435,10 @@
     },
     {
         "id": "34",
-        "name": "An 01",
-        "character": "an",
-        "img": "an/An_01.png",
-        "color": "#00BADC",
+        "name": "childe2",
+        "character": "childe",
+        "img": "childe/childe2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -379,10 +449,10 @@
     },
     {
         "id": "35",
-        "name": "An 02",
-        "character": "an",
-        "img": "an/An_02.png",
-        "color": "#00BADC",
+        "name": "childe3",
+        "character": "childe",
+        "img": "childe/childe3.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -393,10 +463,10 @@
     },
     {
         "id": "36",
-        "name": "An 03",
-        "character": "an",
-        "img": "an/An_03.png",
-        "color": "#00BADC",
+        "name": "childe4",
+        "character": "childe",
+        "img": "childe/childe4.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -407,10 +477,24 @@
     },
     {
         "id": "37",
-        "name": "An 04",
-        "character": "an",
-        "img": "an/An_04.png",
-        "color": "#00BADC",
+        "name": "childe5",
+        "character": "childe",
+        "img": "childe/childe5.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "38",
+        "name": "childe6",
+        "character": "childe",
+        "img": "childe/childe6.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -421,10 +505,10 @@
     },
     {
         "id": "39",
-        "name": "An 06",
-        "character": "an",
-        "img": "an/An_06.png",
-        "color": "#00BADC",
+        "name": "childe7",
+        "character": "childe",
+        "img": "childe/childe7.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -435,10 +519,10 @@
     },
     {
         "id": "40",
-        "name": "An 07",
-        "character": "an",
-        "img": "an/An_07.png",
-        "color": "#00BADC",
+        "name": "childe8",
+        "character": "childe",
+        "img": "childe/childe8.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -449,10 +533,10 @@
     },
     {
         "id": "41",
-        "name": "An 08",
-        "character": "an",
-        "img": "an/An_08.png",
-        "color": "#00BADC",
+        "name": "diluc1",
+        "character": "diluc",
+        "img": "diluc/diluc1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -463,10 +547,24 @@
     },
     {
         "id": "42",
-        "name": "An 09",
-        "character": "an",
-        "img": "an/An_09.png",
-        "color": "#00BADC",
+        "name": "diona1",
+        "character": "diona",
+        "img": "diona/diona1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "43",
+        "name": "diona2",
+        "character": "diona",
+        "img": "diona/diona2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -477,10 +575,10 @@
     },
     {
         "id": "44",
-        "name": "An 11",
-        "character": "an",
-        "img": "an/An_11.png",
-        "color": "#00BADC",
+        "name": "diona3",
+        "character": "diona",
+        "img": "diona/diona3.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -491,10 +589,10 @@
     },
     {
         "id": "45",
-        "name": "An 12",
-        "character": "an",
-        "img": "an/An_12.png",
-        "color": "#00BADC",
+        "name": "diona4",
+        "character": "diona",
+        "img": "diona/diona4.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -505,10 +603,10 @@
     },
     {
         "id": "46",
-        "name": "An 13",
-        "character": "an",
-        "img": "an/An_13.png",
-        "color": "#00BADC",
+        "name": "dog1",
+        "character": "dog",
+        "img": "dog/dog1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -519,10 +617,24 @@
     },
     {
         "id": "47",
-        "name": "An 14",
-        "character": "an",
-        "img": "an/An_14.png",
-        "color": "#00BADC",
+        "name": "dog2",
+        "character": "dog",
+        "img": "dog/dog2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "48",
+        "name": "eula1",
+        "character": "eula",
+        "img": "eula/eula1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -533,10 +645,10 @@
     },
     {
         "id": "49",
-        "name": "An 16",
-        "character": "an",
-        "img": "an/An_16.png",
-        "color": "#00BADC",
+        "name": "eula2",
+        "character": "eula",
+        "img": "eula/eula2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -547,10 +659,10 @@
     },
     {
         "id": "50",
-        "name": "Emu 01",
-        "character": "emu",
-        "img": "emu/Emu_01.png",
-        "color": "#FF66BB",
+        "name": "eula3",
+        "character": "eula",
+        "img": "eula/eula3.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -561,10 +673,10 @@
     },
     {
         "id": "51",
-        "name": "Emu 02",
-        "character": "emu",
-        "img": "emu/Emu_02.png",
-        "color": "#FF66BB",
+        "name": "eula4",
+        "character": "eula",
+        "img": "eula/eula4.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -575,10 +687,10 @@
     },
     {
         "id": "52",
-        "name": "Emu 03",
-        "character": "emu",
-        "img": "emu/Emu_03.png",
-        "color": "#FF66BB",
+        "name": "eula5",
+        "character": "eula",
+        "img": "eula/eula5.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -589,10 +701,24 @@
     },
     {
         "id": "53",
-        "name": "Emu 04",
-        "character": "emu",
-        "img": "emu/Emu_04.png",
-        "color": "#FF66BB",
+        "name": "eula6",
+        "character": "eula",
+        "img": "eula/eula6.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "54",
+        "name": "eula7",
+        "character": "eula",
+        "img": "eula/eula7.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -603,10 +729,10 @@
     },
     {
         "id": "55",
-        "name": "Emu 06",
-        "character": "emu",
-        "img": "emu/Emu_06.png",
-        "color": "#FF66BB",
+        "name": "fischl1",
+        "character": "fischl",
+        "img": "fischl/fischl1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -617,10 +743,10 @@
     },
     {
         "id": "56",
-        "name": "Emu 07",
-        "character": "emu",
-        "img": "emu/Emu_07.png",
-        "color": "#FF66BB",
+        "name": "fischl2",
+        "character": "fischl",
+        "img": "fischl/fischl2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -631,10 +757,10 @@
     },
     {
         "id": "57",
-        "name": "Emu 08",
-        "character": "emu",
-        "img": "emu/Emu_08.png",
-        "color": "#FF66BB",
+        "name": "ganyu1",
+        "character": "ganyu",
+        "img": "ganyu/ganyu1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -645,10 +771,24 @@
     },
     {
         "id": "58",
-        "name": "Emu 09",
-        "character": "emu",
-        "img": "emu/Emu_09.png",
-        "color": "#FF66BB",
+        "name": "ganyu2",
+        "character": "ganyu",
+        "img": "ganyu/ganyu2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "59",
+        "name": "ganyu3",
+        "character": "ganyu",
+        "img": "ganyu/ganyu3.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -659,10 +799,10 @@
     },
     {
         "id": "60",
-        "name": "Emu 11",
-        "character": "emu",
-        "img": "emu/Emu_11.png",
-        "color": "#FF66BB",
+        "name": "ganyu4",
+        "character": "ganyu",
+        "img": "ganyu/ganyu4.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -673,10 +813,10 @@
     },
     {
         "id": "61",
-        "name": "Emu 12",
-        "character": "emu",
-        "img": "emu/Emu_12.png",
-        "color": "#FF66BB",
+        "name": "ganyu5",
+        "character": "ganyu",
+        "img": "ganyu/ganyu5.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -687,24 +827,38 @@
     },
     {
         "id": "62",
-        "name": "Emu 13",
-        "character": "emu",
-        "img": "emu/Emu_13.png",
-        "color": "#FF66BB",
+        "name": "ganyu6",
+        "character": "ganyu",
+        "img": "ganyu/ganyu6.png",
+        "color": "#FB8AAC",
         "defaultText": {
-            "text": "Wonderhoy!",
+            "text": "something",
             "x": 148,
-            "y": 70,
+            "y": 58,
             "r": -2,
-            "s": 38
+            "s": 47
         }
     },
     {
         "id": "63",
-        "name": "Emu 14",
-        "character": "emu",
-        "img": "emu/Emu_14.png",
-        "color": "#FF66BB",
+        "name": "gorou1",
+        "character": "gorou",
+        "img": "gorou/gorou1.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "64",
+        "name": "gorou2",
+        "character": "gorou",
+        "img": "gorou/gorou2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -715,10 +869,10 @@
     },
     {
         "id": "65",
-        "name": "Emu 16",
-        "character": "emu",
-        "img": "emu/Emu_16.png",
-        "color": "#FF66BB",
+        "name": "gorou3",
+        "character": "gorou",
+        "img": "gorou/gorou3.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -729,10 +883,10 @@
     },
     {
         "id": "66",
-        "name": "Ena 01",
-        "character": "ena",
-        "img": "ena/Ena_01.png",
-        "color": "#B18F6C",
+        "name": "gorou4",
+        "character": "gorou",
+        "img": "gorou/gorou4.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -743,10 +897,10 @@
     },
     {
         "id": "67",
-        "name": "Ena 02",
-        "character": "ena",
-        "img": "ena/Ena_02.png",
-        "color": "#B18F6C",
+        "name": "hutao1",
+        "character": "hutao",
+        "img": "hutao/hutao1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -757,10 +911,10 @@
     },
     {
         "id": "68",
-        "name": "Ena 03",
-        "character": "ena",
-        "img": "ena/Ena_03.png",
-        "color": "#B18F6C",
+        "name": "hutao10",
+        "character": "hutao",
+        "img": "hutao/hutao10.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -771,10 +925,24 @@
     },
     {
         "id": "69",
-        "name": "Ena 04",
-        "character": "ena",
-        "img": "ena/Ena_04.png",
-        "color": "#B18F6C",
+        "name": "hutao11",
+        "character": "hutao",
+        "img": "hutao/hutao11.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "70",
+        "name": "hutao2",
+        "character": "hutao",
+        "img": "hutao/hutao2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -785,10 +953,10 @@
     },
     {
         "id": "71",
-        "name": "Ena 06",
-        "character": "ena",
-        "img": "ena/Ena_06.png",
-        "color": "#B18F6C",
+        "name": "hutao3",
+        "character": "hutao",
+        "img": "hutao/hutao3.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -799,10 +967,10 @@
     },
     {
         "id": "72",
-        "name": "Ena 07",
-        "character": "ena",
-        "img": "ena/Ena_07.png",
-        "color": "#B18F6C",
+        "name": "hutao4",
+        "character": "hutao",
+        "img": "hutao/hutao4.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -813,10 +981,10 @@
     },
     {
         "id": "73",
-        "name": "Ena 08",
-        "character": "ena",
-        "img": "ena/Ena_08.png",
-        "color": "#B18F6C",
+        "name": "hutao5",
+        "character": "hutao",
+        "img": "hutao/hutao5.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -827,10 +995,24 @@
     },
     {
         "id": "74",
-        "name": "Ena 09",
-        "character": "ena",
-        "img": "ena/Ena_09.png",
-        "color": "#B18F6C",
+        "name": "hutao6",
+        "character": "hutao",
+        "img": "hutao/hutao6.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "75",
+        "name": "hutao7",
+        "character": "hutao",
+        "img": "hutao/hutao7.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -841,10 +1023,10 @@
     },
     {
         "id": "76",
-        "name": "Ena 11",
-        "character": "ena",
-        "img": "ena/Ena_11.png",
-        "color": "#B18F6C",
+        "name": "hutao8",
+        "character": "hutao",
+        "img": "hutao/hutao8.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -855,10 +1037,10 @@
     },
     {
         "id": "77",
-        "name": "Ena 12",
-        "character": "ena",
-        "img": "ena/Ena_12.png",
-        "color": "#B18F6C",
+        "name": "hutao9",
+        "character": "hutao",
+        "img": "hutao/hutao9.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -869,10 +1051,10 @@
     },
     {
         "id": "78",
-        "name": "Ena 13",
-        "character": "ena",
-        "img": "ena/Ena_13.png",
-        "color": "#B18F6C",
+        "name": "itto1",
+        "character": "itto",
+        "img": "itto/itto1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -883,10 +1065,24 @@
     },
     {
         "id": "79",
-        "name": "Ena 14",
-        "character": "ena",
-        "img": "ena/Ena_14.png",
-        "color": "#B18F6C",
+        "name": "itto2",
+        "character": "itto",
+        "img": "itto/itto2.png",
+        "color": "#FB8AAC",
+        "defaultText": {
+            "text": "something",
+            "x": 148,
+            "y": 58,
+            "r": -2,
+            "s": 47
+        }
+    },
+    {
+        "id": "80",
+        "name": "itto3",
+        "character": "itto",
+        "img": "itto/itto3.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -897,10 +1093,10 @@
     },
     {
         "id": "81",
-        "name": "Ena 16",
-        "character": "ena",
-        "img": "ena/Ena_16.png",
-        "color": "#B18F6C",
+        "name": "itto4",
+        "character": "itto",
+        "img": "itto/itto4.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -910,11 +1106,11 @@
         }
     },
     {
-        "id":"81",
-        "name": "Haruka 01",
-        "character": "Haruka",
-        "img": "Haruka/Haruka_01.png",
-        "color": "#6495F0",
+        "id": "82",
+        "name": "jean1",
+        "character": "jean",
+        "img": "jean/jean1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -924,11 +1120,11 @@
         }
     },
     {
-        "id":"82",
-        "name": "Haruka 02",
-        "character": "Haruka",
-        "img": "Haruka/Haruka_02.png",
-        "color": "#6495F0",
+        "id": "83",
+        "name": "jean2",
+        "character": "jean",
+        "img": "jean/jean2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -938,11 +1134,11 @@
         }
     },
     {
-        "id":"83",
-        "name": "Haruka 03",
-        "character": "Haruka",
-        "img": "Haruka/Haruka_03.png",
-        "color": "#6495F0",
+        "id": "84",
+        "name": "jean3",
+        "character": "jean",
+        "img": "jean/jean3.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -952,11 +1148,11 @@
         }
     },
     {
-        "id":"84",
-        "name": "Haruka 04",
-        "character": "Haruka",
-        "img": "Haruka/Haruka_04.png",
-        "color": "#6495F0",
+        "id": "85",
+        "name": "jean4",
+        "character": "jean",
+        "img": "jean/jean4.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -966,11 +1162,11 @@
         }
     },
     {
-        "id":"85",
-        "name": "Haruka 06",
-        "character": "Haruka",
-        "img": "Haruka/Haruka_06.png",
-        "color": "#6495F0",
+        "id": "86",
+        "name": "jean5",
+        "character": "jean",
+        "img": "jean/jean5.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -980,11 +1176,11 @@
         }
     },
     {
-        "id":"86",
-        "name": "Haruka 07",
-        "character": "Haruka",
-        "img": "Haruka/Haruka_07.png",
-        "color": "#6495F0",
+        "id": "87",
+        "name": "jean6",
+        "character": "jean",
+        "img": "jean/jean6.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -994,11 +1190,11 @@
         }
     },
     {
-        "id":"87",
-        "name": "Haruka 08",
-        "character": "Haruka",
-        "img": "Haruka/Haruka_08.png",
-        "color": "#6495F0",
+        "id": "88",
+        "name": "jin1",
+        "character": "jin",
+        "img": "jin/jin1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1008,11 +1204,11 @@
         }
     },
     {
-        "id":"88",
-        "name": "Haruka 09",
-        "character": "Haruka",
-        "img": "Haruka/Haruka_09.png",
-        "color": "#6495F0",
+        "id": "89",
+        "name": "jin2",
+        "character": "jin",
+        "img": "jin/jin2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1022,11 +1218,11 @@
         }
     },
     {
-        "id":"89",
-        "name": "Haruka 11",
-        "character": "Haruka",
-        "img": "Haruka/Haruka_11.png",
-        "color": "#6495F0",
+        "id": "90",
+        "name": "jin3",
+        "character": "jin",
+        "img": "jin/jin3.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1036,11 +1232,11 @@
         }
     },
     {
-        "id":"90",
-        "name": "Haruka 12",
-        "character": "Haruka",
-        "img": "Haruka/Haruka_12.png",
-        "color": "#6495F0",
+        "id": "91",
+        "name": "jin4",
+        "character": "jin",
+        "img": "jin/jin4.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1050,11 +1246,11 @@
         }
     },
     {
-        "id":"91",
-        "name": "Haruka 13",
-        "character": "Haruka",
-        "img": "Haruka/Haruka_13.png",
-        "color": "#6495F0",
+        "id": "92",
+        "name": "kaeya1",
+        "character": "kaeya",
+        "img": "kaeya/kaeya1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1064,11 +1260,11 @@
         }
     },
     {
-        "id":"92",
-        "name": "Haruka 14",
-        "character": "Haruka",
-        "img": "Haruka/Haruka_14.png",
-        "color": "#6495F0",
+        "id": "93",
+        "name": "kaeya2",
+        "character": "kaeya",
+        "img": "kaeya/kaeya2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1078,11 +1274,11 @@
         }
     },
     {
-        "id":"93",
-        "name": "Haruka 16",
-        "character": "Haruka",
-        "img": "Haruka/Haruka_16.png",
-        "color": "#6495F0",
+        "id": "94",
+        "name": "kazuha1",
+        "character": "kazuha",
+        "img": "kazuha/kazuha1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1092,11 +1288,11 @@
         }
     },
     {
-        "id":"94",
-        "name": "Honami 01",
-        "character": "Honami",
-        "img": "Honami/Honami_01.png",
-        "color": "#F86666",
+        "id": "95",
+        "name": "kazuha2",
+        "character": "kazuha",
+        "img": "kazuha/kazuha2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1106,11 +1302,11 @@
         }
     },
     {
-        "id":"95",
-        "name": "Honami 02",
-        "character": "Honami",
-        "img": "Honami/Honami_02.png",
-        "color": "#F86666",
+        "id": "96",
+        "name": "kazuha3",
+        "character": "kazuha",
+        "img": "kazuha/kazuha3.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1120,11 +1316,11 @@
         }
     },
     {
-        "id":"96",
-        "name": "Honami 03",
-        "character": "Honami",
-        "img": "Honami/Honami_03.png",
-        "color": "#F86666",
+        "id": "97",
+        "name": "kazuha4",
+        "character": "kazuha",
+        "img": "kazuha/kazuha4.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1134,11 +1330,11 @@
         }
     },
     {
-        "id":"97",
-        "name": "Honami 04",
-        "character": "Honami",
-        "img": "Honami/Honami_04.png",
-        "color": "#F86666",
+        "id": "98",
+        "name": "keqing1",
+        "character": "keqing",
+        "img": "keqing/keqing1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1148,11 +1344,11 @@
         }
     },
     {
-        "id":"98",
-        "name": "Honami 06",
-        "character": "Honami",
-        "img": "Honami/Honami_06.png",
-        "color": "#F86666",
+        "id": "99",
+        "name": "keqing2",
+        "character": "keqing",
+        "img": "keqing/keqing2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1162,11 +1358,11 @@
         }
     },
     {
-        "id":"99",
-        "name": "Honami 07",
-        "character": "Honami",
-        "img": "Honami/Honami_07.png",
-        "color": "#F86666",
+        "id": "100",
+        "name": "keqing3",
+        "character": "keqing",
+        "img": "keqing/keqing3.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1176,11 +1372,11 @@
         }
     },
     {
-        "id":"100",
-        "name": "Honami 08",
-        "character": "Honami",
-        "img": "Honami/Honami_08.png",
-        "color": "#F86666",
+        "id": "101",
+        "name": "keqing4",
+        "character": "keqing",
+        "img": "keqing/keqing4.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1190,11 +1386,11 @@
         }
     },
     {
-        "id":"101",
-        "name": "Honami 09",
-        "character": "Honami",
-        "img": "Honami/Honami_09.png",
-        "color": "#F86666",
+        "id": "102",
+        "name": "keqing5",
+        "character": "keqing",
+        "img": "keqing/keqing5.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1204,11 +1400,11 @@
         }
     },
     {
-        "id":"102",
-        "name": "Honami 11",
-        "character": "Honami",
-        "img": "Honami/Honami_11.png",
-        "color": "#F86666",
+        "id": "103",
+        "name": "keqing6",
+        "character": "keqing",
+        "img": "keqing/keqing6.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1218,11 +1414,11 @@
         }
     },
     {
-        "id":"103",
-        "name": "Honami 12",
-        "character": "Honami",
-        "img": "Honami/Honami_12.png",
-        "color": "#F86666",
+        "id": "104",
+        "name": "klee1",
+        "character": "klee",
+        "img": "klee/klee1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1232,11 +1428,11 @@
         }
     },
     {
-        "id":"104",
-        "name": "Honami 13",
-        "character": "Honami",
-        "img": "Honami/Honami_13.png",
-        "color": "#F86666",
+        "id": "105",
+        "name": "klee2",
+        "character": "klee",
+        "img": "klee/klee2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1246,11 +1442,11 @@
         }
     },
     {
-        "id":"105",
-        "name": "Honami 14",
-        "character": "Honami",
-        "img": "Honami/Honami_14.png",
-        "color": "#F86666",
+        "id": "106",
+        "name": "klee3",
+        "character": "klee",
+        "img": "klee/klee3.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1260,11 +1456,11 @@
         }
     },
     {
-        "id":"106",
-        "name": "Honami 16",
-        "character": "Honami",
-        "img": "Honami/Honami_16.png",
-        "color": "#F86666",
+        "id": "107",
+        "name": "klee4",
+        "character": "klee",
+        "img": "klee/klee4.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1274,11 +1470,11 @@
         }
     },
     {
-        "id":"107",
-        "name": "Honami 17",
-        "character": "Honami",
-        "img": "Honami/Honami_17.png",
-        "color": "#F86666",
+        "id": "108",
+        "name": "kokomi1",
+        "character": "kokomi",
+        "img": "kokomi/kokomi1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1288,11 +1484,11 @@
         }
     },
     {
-        "id":"108",
-        "name": "Honami 18",
-        "character": "Honami",
-        "img": "Honami/Honami_18.png",
-        "color": "#F86666",
+        "id": "109",
+        "name": "kokomi2",
+        "character": "kokomi",
+        "img": "kokomi/kokomi2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1302,11 +1498,11 @@
         }
     },
     {
-        "id":"109",
-        "name": "Ichika 01",
-        "character": "Ichika",
-        "img": "Ichika/Ichika_01.png",
-        "color": "#33AAEE",
+        "id": "110",
+        "name": "kokomi3",
+        "character": "kokomi",
+        "img": "kokomi/kokomi3.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1316,11 +1512,11 @@
         }
     },
     {
-        "id":"110",
-        "name": "Ichika 02",
-        "character": "Ichika",
-        "img": "Ichika/Ichika_02.png",
-        "color": "#33AAEE",
+        "id": "111",
+        "name": "kokomi4",
+        "character": "kokomi",
+        "img": "kokomi/kokomi4.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1330,11 +1526,11 @@
         }
     },
     {
-        "id":"111",
-        "name": "Ichika 03",
-        "character": "Ichika",
-        "img": "Ichika/Ichika_03.png",
-        "color": "#33AAEE",
+        "id": "112",
+        "name": "kokomi5",
+        "character": "kokomi",
+        "img": "kokomi/kokomi5.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1344,11 +1540,11 @@
         }
     },
     {
-        "id":"112",
-        "name": "Ichika 04",
-        "character": "Ichika",
-        "img": "Ichika/Ichika_04.png",
-        "color": "#33AAEE",
+        "id": "113",
+        "name": "kokomi6",
+        "character": "kokomi",
+        "img": "kokomi/kokomi6.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1358,11 +1554,11 @@
         }
     },
     {
-        "id":"113",
-        "name": "Ichika 06",
-        "character": "Ichika",
-        "img": "Ichika/Ichika_06.png",
-        "color": "#33AAEE",
+        "id": "114",
+        "name": "kokomi7",
+        "character": "kokomi",
+        "img": "kokomi/kokomi7.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1372,11 +1568,11 @@
         }
     },
     {
-        "id":"114",
-        "name": "Ichika 07",
-        "character": "Ichika",
-        "img": "Ichika/Ichika_07.png",
-        "color": "#33AAEE",
+        "id": "115",
+        "name": "lisa1",
+        "character": "lisa",
+        "img": "lisa/lisa1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1386,11 +1582,11 @@
         }
     },
     {
-        "id":"115",
-        "name": "Ichika 08",
-        "character": "Ichika",
-        "img": "Ichika/Ichika_08.png",
-        "color": "#33AAEE",
+        "id": "116",
+        "name": "lisa2",
+        "character": "lisa",
+        "img": "lisa/lisa2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1400,11 +1596,11 @@
         }
     },
     {
-        "id":"116",
-        "name": "Ichika 09",
-        "character": "Ichika",
-        "img": "Ichika/Ichika_09.png",
-        "color": "#33AAEE",
+        "id": "117",
+        "name": "lumine1",
+        "character": "lumine",
+        "img": "lumine/lumine1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1414,11 +1610,11 @@
         }
     },
     {
-        "id":"117",
-        "name": "Ichika 11",
-        "character": "Ichika",
-        "img": "Ichika/Ichika_11.png",
-        "color": "#33AAEE",
+        "id": "118",
+        "name": "lumine2",
+        "character": "lumine",
+        "img": "lumine/lumine2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1428,11 +1624,11 @@
         }
     },
     {
-        "id":"118",
-        "name": "Ichika 12",
-        "character": "Ichika",
-        "img": "Ichika/Ichika_12.png",
-        "color": "#33AAEE",
+        "id": "119",
+        "name": "mona1",
+        "character": "mona",
+        "img": "mona/mona1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1442,11 +1638,11 @@
         }
     },
     {
-        "id":"119",
-        "name": "Ichika 13",
-        "character": "Ichika",
-        "img": "Ichika/Ichika_13.png",
-        "color": "#33AAEE",
+        "id": "120",
+        "name": "mona2",
+        "character": "mona",
+        "img": "mona/mona2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1456,11 +1652,11 @@
         }
     },
     {
-        "id":"120",
-        "name": "Ichika 14",
-        "character": "Ichika",
-        "img": "Ichika/Ichika_14.png",
-        "color": "#33AAEE",
+        "id": "121",
+        "name": "mona3",
+        "character": "mona",
+        "img": "mona/mona3.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1470,11 +1666,11 @@
         }
     },
     {
-        "id":"121",
-        "name": "Ichika 16",
-        "character": "Ichika",
-        "img": "Ichika/Ichika_16.png",
-        "color": "#33AAEE",
+        "id": "122",
+        "name": "mona4",
+        "character": "mona",
+        "img": "mona/mona4.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1484,11 +1680,11 @@
         }
     },
     {
-        "id":"122",
-        "name": "Ichika 17",
-        "character": "Ichika",
-        "img": "Ichika/Ichika_17.png",
-        "color": "#33AAEE",
+        "id": "123",
+        "name": "ningguang1",
+        "character": "ningguang",
+        "img": "ningguang/ningguang1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1498,11 +1694,11 @@
         }
     },
     {
-        "id":"123",
-        "name": "Ichika 18",
-        "character": "Ichika",
-        "img": "Ichika/Ichika_18.png",
-        "color": "#33AAEE",
+        "id": "124",
+        "name": "ningguang2",
+        "character": "ningguang",
+        "img": "ningguang/ningguang2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1512,11 +1708,11 @@
         }
     },
     {
-        "id":"124",
-        "name": "KAITO 01",
-        "character": "KAITO",
-        "img": "KAITO/KAITO_01.png",
-        "color": "#3366CC",
+        "id": "125",
+        "name": "paimon1",
+        "character": "paimon",
+        "img": "paimon/paimon1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1526,11 +1722,11 @@
         }
     },
     {
-        "id":"125",
-        "name": "KAITO 02",
-        "character": "KAITO",
-        "img": "KAITO/KAITO_02.png",
-        "color": "#3366CC",
+        "id": "126",
+        "name": "paimon2",
+        "character": "paimon",
+        "img": "paimon/paimon2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1540,11 +1736,11 @@
         }
     },
     {
-        "id":"126",
-        "name": "KAITO 03",
-        "character": "KAITO",
-        "img": "KAITO/KAITO_03.png",
-        "color": "#3366CC",
+        "id": "127",
+        "name": "paimon3",
+        "character": "paimon",
+        "img": "paimon/paimon3.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1554,11 +1750,11 @@
         }
     },
     {
-        "id":"127",
-        "name": "KAITO 04",
-        "character": "KAITO",
-        "img": "KAITO/KAITO_04.png",
-        "color": "#3366CC",
+        "id": "128",
+        "name": "paimon4",
+        "character": "paimon",
+        "img": "paimon/paimon4.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1568,11 +1764,11 @@
         }
     },
     {
-        "id":"128",
-        "name": "KAITO 06",
-        "character": "KAITO",
-        "img": "KAITO/KAITO_06.png",
-        "color": "#3366CC",
+        "id": "129",
+        "name": "paimon5",
+        "character": "paimon",
+        "img": "paimon/paimon5.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1582,11 +1778,11 @@
         }
     },
     {
-        "id":"129",
-        "name": "KAITO 07",
-        "character": "KAITO",
-        "img": "KAITO/KAITO_07.png",
-        "color": "#3366CC",
+        "id": "130",
+        "name": "paimon6",
+        "character": "paimon",
+        "img": "paimon/paimon6.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1596,11 +1792,11 @@
         }
     },
     {
-        "id":"130",
-        "name": "KAITO 08",
-        "character": "KAITO",
-        "img": "KAITO/KAITO_08.png",
-        "color": "#3366CC",
+        "id": "131",
+        "name": "qiqi1",
+        "character": "qiqi",
+        "img": "qiqi/qiqi1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1610,11 +1806,11 @@
         }
     },
     {
-        "id":"131",
-        "name": "KAITO 09",
-        "character": "KAITO",
-        "img": "KAITO/KAITO_09.png",
-        "color": "#3366CC",
+        "id": "132",
+        "name": "qiqi2",
+        "character": "qiqi",
+        "img": "qiqi/qiqi2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1624,11 +1820,11 @@
         }
     },
     {
-        "id":"132",
-        "name": "KAITO 11",
-        "character": "KAITO",
-        "img": "KAITO/KAITO_11.png",
-        "color": "#3366CC",
+        "id": "133",
+        "name": "qiqi3",
+        "character": "qiqi",
+        "img": "qiqi/qiqi3.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1638,11 +1834,11 @@
         }
     },
     {
-        "id":"133",
-        "name": "KAITO 12",
-        "character": "KAITO",
-        "img": "KAITO/KAITO_12.png",
-        "color": "#3366CC",
+        "id": "134",
+        "name": "raiden1",
+        "character": "raiden",
+        "img": "raiden/raiden1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1652,11 +1848,11 @@
         }
     },
     {
-        "id":"134",
-        "name": "KAITO 13",
-        "character": "KAITO",
-        "img": "KAITO/KAITO_13.png",
-        "color": "#3366CC",
+        "id": "135",
+        "name": "raiden2",
+        "character": "raiden",
+        "img": "raiden/raiden2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1666,11 +1862,11 @@
         }
     },
     {
-        "id":"135",
-        "name": "KAITO 14",
-        "character": "KAITO",
-        "img": "KAITO/KAITO_14.png",
-        "color": "#3366CC",
+        "id": "136",
+        "name": "raiden3",
+        "character": "raiden",
+        "img": "raiden/raiden3.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1680,11 +1876,11 @@
         }
     },
     {
-        "id":"136",
-        "name": "KAITO 16",
-        "character": "KAITO",
-        "img": "KAITO/KAITO_16.png",
-        "color": "#3366CC",
+        "id": "137",
+        "name": "raiden4",
+        "character": "raiden",
+        "img": "raiden/raiden4.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1694,11 +1890,11 @@
         }
     },
     {
-        "id":"137",
-        "name": "Kanade 01",
-        "character": "Kanade",
-        "img": "Kanade/Kanade_01.png",
-        "color": "#BB6688",
+        "id": "138",
+        "name": "raiden5",
+        "character": "raiden",
+        "img": "raiden/raiden5.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1708,11 +1904,11 @@
         }
     },
     {
-        "id":"138",
-        "name": "Kanade 02",
-        "character": "Kanade",
-        "img": "Kanade/Kanade_02.png",
-        "color": "#BB6688",
+        "id": "139",
+        "name": "raiden6",
+        "character": "raiden",
+        "img": "raiden/raiden6.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1722,11 +1918,11 @@
         }
     },
     {
-        "id":"139",
-        "name": "Kanade 03",
-        "character": "Kanade",
-        "img": "Kanade/Kanade_03.png",
-        "color": "#BB6688",
+        "id": "140",
+        "name": "raiden7",
+        "character": "raiden",
+        "img": "raiden/raiden7.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1736,11 +1932,11 @@
         }
     },
     {
-        "id":"140",
-        "name": "Kanade 04",
-        "character": "Kanade",
-        "img": "Kanade/Kanade_04.png",
-        "color": "#BB6688",
+        "id": "141",
+        "name": "raiden8",
+        "character": "raiden",
+        "img": "raiden/raiden8.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1750,11 +1946,11 @@
         }
     },
     {
-        "id":"141",
-        "name": "Kanade 06",
-        "character": "Kanade",
-        "img": "Kanade/Kanade_06.png",
-        "color": "#BB6688",
+        "id": "142",
+        "name": "rosaria1",
+        "character": "rosaria",
+        "img": "rosaria/rosaria1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1764,11 +1960,11 @@
         }
     },
     {
-        "id":"142",
-        "name": "Kanade 07",
-        "character": "Kanade",
-        "img": "Kanade/Kanade_07.png",
-        "color": "#BB6688",
+        "id": "143",
+        "name": "rosaria2",
+        "character": "rosaria",
+        "img": "rosaria/rosaria2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1778,11 +1974,11 @@
         }
     },
     {
-        "id":"143",
-        "name": "Kanade 08",
-        "character": "Kanade",
-        "img": "Kanade/Kanade_08.png",
-        "color": "#BB6688",
+        "id": "144",
+        "name": "rosaria3",
+        "character": "rosaria",
+        "img": "rosaria/rosaria3.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1792,11 +1988,11 @@
         }
     },
     {
-        "id":"144",
-        "name": "Kanade 09",
-        "character": "Kanade",
-        "img": "Kanade/Kanade_09.png",
-        "color": "#BB6688",
+        "id": "145",
+        "name": "rosaria4",
+        "character": "rosaria",
+        "img": "rosaria/rosaria4.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1806,11 +2002,11 @@
         }
     },
     {
-        "id":"145",
-        "name": "Kanade 11",
-        "character": "Kanade",
-        "img": "Kanade/Kanade_11.png",
-        "color": "#BB6688",
+        "id": "146",
+        "name": "samurai1",
+        "character": "samurai",
+        "img": "samurai/samurai1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1820,11 +2016,11 @@
         }
     },
     {
-        "id":"146",
-        "name": "Kanade 12",
-        "character": "Kanade",
-        "img": "Kanade/Kanade_12.png",
-        "color": "#BB6688",
+        "id": "147",
+        "name": "samurai2",
+        "character": "samurai",
+        "img": "samurai/samurai2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1834,11 +2030,11 @@
         }
     },
     {
-        "id":"147",
-        "name": "Kanade 13",
-        "character": "Kanade",
-        "img": "Kanade/Kanade_13.png",
-        "color": "#BB6688",
+        "id": "148",
+        "name": "sara1",
+        "character": "sara",
+        "img": "sara/sara1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1848,11 +2044,11 @@
         }
     },
     {
-        "id":"148",
-        "name": "Kanade 14",
-        "character": "Kanade",
-        "img": "Kanade/Kanade_14.png",
-        "color": "#BB6688",
+        "id": "149",
+        "name": "sara2",
+        "character": "sara",
+        "img": "sara/sara2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1862,11 +2058,11 @@
         }
     },
     {
-        "id":"149",
-        "name": "Kanade 16",
-        "character": "Kanade",
-        "img": "Kanade/Kanade_16.png",
-        "color": "#BB6688",
+        "id": "150",
+        "name": "sara3",
+        "character": "sara",
+        "img": "sara/sara3.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1876,11 +2072,11 @@
         }
     },
     {
-        "id":"150",
-        "name": "Kanade 17",
-        "character": "Kanade",
-        "img": "Kanade/Kanade_17.png",
-        "color": "#BB6688",
+        "id": "151",
+        "name": "sara4",
+        "character": "sara",
+        "img": "sara/sara4.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1890,11 +2086,11 @@
         }
     },
     {
-        "id":"151",
-        "name": "Kohane 01",
-        "character": "Kohane",
-        "img": "Kohane/Kohane_01.png",
-        "color": "#FF6699",
+        "id": "152",
+        "name": "sayu1",
+        "character": "sayu",
+        "img": "sayu/sayu1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1904,11 +2100,11 @@
         }
     },
     {
-        "id":"152",
-        "name": "Kohane 02",
-        "character": "Kohane",
-        "img": "Kohane/Kohane_02.png",
-        "color": "#FF6699",
+        "id": "153",
+        "name": "sayu2",
+        "character": "sayu",
+        "img": "sayu/sayu2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1918,11 +2114,11 @@
         }
     },
     {
-        "id":"153",
-        "name": "Kohane 03",
-        "character": "Kohane",
-        "img": "Kohane/Kohane_03.png",
-        "color": "#FF6699",
+        "id": "154",
+        "name": "sayu3",
+        "character": "sayu",
+        "img": "sayu/sayu3.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1932,11 +2128,11 @@
         }
     },
     {
-        "id":"154",
-        "name": "Kohane 04",
-        "character": "Kohane",
-        "img": "Kohane/Kohane_04.png",
-        "color": "#FF6699",
+        "id": "155",
+        "name": "sayu4",
+        "character": "sayu",
+        "img": "sayu/sayu4.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1946,11 +2142,11 @@
         }
     },
     {
-        "id":"155",
-        "name": "Kohane 06",
-        "character": "Kohane",
-        "img": "Kohane/Kohane_06.png",
-        "color": "#FF6699",
+        "id": "156",
+        "name": "shenhe1",
+        "character": "shenhe",
+        "img": "shenhe/shenhe1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1960,11 +2156,11 @@
         }
     },
     {
-        "id":"156",
-        "name": "Kohane 07",
-        "character": "Kohane",
-        "img": "Kohane/Kohane_07.png",
-        "color": "#FF6699",
+        "id": "157",
+        "name": "shenhe2",
+        "character": "shenhe",
+        "img": "shenhe/shenhe2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1974,11 +2170,11 @@
         }
     },
     {
-        "id":"157",
-        "name": "Kohane 08",
-        "character": "Kohane",
-        "img": "Kohane/Kohane_08.png",
-        "color": "#FF6699",
+        "id": "158",
+        "name": "shenhe3",
+        "character": "shenhe",
+        "img": "shenhe/shenhe3.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -1988,11 +2184,11 @@
         }
     },
     {
-        "id":"158",
-        "name": "Kohane 09",
-        "character": "Kohane",
-        "img": "Kohane/Kohane_09.png",
-        "color": "#FF6699",
+        "id": "159",
+        "name": "shenhe4",
+        "character": "shenhe",
+        "img": "shenhe/shenhe4.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2002,11 +2198,11 @@
         }
     },
     {
-        "id":"159",
-        "name": "Kohane 11",
-        "character": "Kohane",
-        "img": "Kohane/Kohane_11.png",
-        "color": "#FF6699",
+        "id": "160",
+        "name": "sucrose1",
+        "character": "sucrose",
+        "img": "sucrose/sucrose1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2016,11 +2212,11 @@
         }
     },
     {
-        "id":"160",
-        "name": "Kohane 12",
-        "character": "Kohane",
-        "img": "Kohane/Kohane_12.png",
-        "color": "#FF6699",
+        "id": "161",
+        "name": "sucrose2",
+        "character": "sucrose",
+        "img": "sucrose/sucrose2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2030,11 +2226,11 @@
         }
     },
     {
-        "id":"161",
-        "name": "Kohane 13",
-        "character": "Kohane",
-        "img": "Kohane/Kohane_13.png",
-        "color": "#FF6699",
+        "id": "162",
+        "name": "sucrose3",
+        "character": "sucrose",
+        "img": "sucrose/sucrose3.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2044,11 +2240,11 @@
         }
     },
     {
-        "id":"162",
-        "name": "Kohane 14",
-        "character": "Kohane",
-        "img": "Kohane/Kohane_14.png",
-        "color": "#FF6699",
+        "id": "163",
+        "name": "sucrose4",
+        "character": "sucrose",
+        "img": "sucrose/sucrose4.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2058,11 +2254,11 @@
         }
     },
     {
-        "id":"163",
-        "name": "Kohane 16",
-        "character": "Kohane",
-        "img": "Kohane/Kohane_16.png",
-        "color": "#FF6699",
+        "id": "164",
+        "name": "sucrose5",
+        "character": "sucrose",
+        "img": "sucrose/sucrose5.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2072,11 +2268,11 @@
         }
     },
     {
-        "id":"164",
-        "name": "Kohane 17",
-        "character": "Kohane",
-        "img": "Kohane/Kohane_17.png",
-        "color": "#FF6699",
+        "id": "165",
+        "name": "sucrose6",
+        "character": "sucrose",
+        "img": "sucrose/sucrose6.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2086,11 +2282,11 @@
         }
     },
     {
-        "id":"165",
-        "name": "Len 01",
-        "character": "Len",
-        "img": "Len/Len_01.png",
-        "color": "#D3BD00",
+        "id": "166",
+        "name": "tanuki1",
+        "character": "tanuki",
+        "img": "tanuki/tanuki1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2100,11 +2296,11 @@
         }
     },
     {
-        "id":"166",
-        "name": "Len 02",
-        "character": "Len",
-        "img": "Len/Len_02.png",
-        "color": "#D3BD00",
+        "id": "167",
+        "name": "tanuki2",
+        "character": "tanuki",
+        "img": "tanuki/tanuki2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2114,11 +2310,11 @@
         }
     },
     {
-        "id":"167",
-        "name": "Len 03",
-        "character": "Len",
-        "img": "Len/Len_03.png",
-        "color": "#D3BD00",
+        "id": "168",
+        "name": "thoma1",
+        "character": "thoma",
+        "img": "thoma/thoma1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2128,11 +2324,11 @@
         }
     },
     {
-        "id":"168",
-        "name": "Len 04",
-        "character": "Len",
-        "img": "Len/Len_04.png",
-        "color": "#D3BD00",
+        "id": "169",
+        "name": "thoma2",
+        "character": "thoma",
+        "img": "thoma/thoma2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2142,11 +2338,11 @@
         }
     },
     {
-        "id":"169",
-        "name": "Len 06",
-        "character": "Len",
-        "img": "Len/Len_06.png",
-        "color": "#D3BD00",
+        "id": "170",
+        "name": "thoma3",
+        "character": "thoma",
+        "img": "thoma/thoma3.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2156,11 +2352,11 @@
         }
     },
     {
-        "id":"170",
-        "name": "Len 07",
-        "character": "Len",
-        "img": "Len/Len_07.png",
-        "color": "#D3BD00",
+        "id": "171",
+        "name": "thoma4",
+        "character": "thoma",
+        "img": "thoma/thoma4.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2170,11 +2366,11 @@
         }
     },
     {
-        "id":"171",
-        "name": "Len 08",
-        "character": "Len",
-        "img": "Len/Len_08.png",
-        "color": "#D3BD00",
+        "id": "172",
+        "name": "thoma5",
+        "character": "thoma",
+        "img": "thoma/thoma5.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2184,11 +2380,11 @@
         }
     },
     {
-        "id":"172",
-        "name": "Len 09",
-        "character": "Len",
-        "img": "Len/Len_09.png",
-        "color": "#D3BD00",
+        "id": "173",
+        "name": "thoma6",
+        "character": "thoma",
+        "img": "thoma/thoma6.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2198,11 +2394,11 @@
         }
     },
     {
-        "id":"173",
-        "name": "Len 11",
-        "character": "Len",
-        "img": "Len/Len_11.png",
-        "color": "#D3BD00",
+        "id": "174",
+        "name": "venti1",
+        "character": "venti",
+        "img": "venti/venti1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2212,11 +2408,11 @@
         }
     },
     {
-        "id":"174",
-        "name": "Len 12",
-        "character": "Len",
-        "img": "Len/Len_12.png",
-        "color": "#D3BD00",
+        "id": "175",
+        "name": "venti2",
+        "character": "venti",
+        "img": "venti/venti2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2226,11 +2422,11 @@
         }
     },
     {
-        "id":"175",
-        "name": "Len 13",
-        "character": "Len",
-        "img": "Len/Len_13.png",
-        "color": "#D3BD00",
+        "id": "176",
+        "name": "venti3",
+        "character": "venti",
+        "img": "venti/venti3.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2240,11 +2436,11 @@
         }
     },
     {
-        "id":"176",
-        "name": "Len 14",
-        "character": "Len",
-        "img": "Len/Len_14.png",
-        "color": "#D3BD00",
+        "id": "177",
+        "name": "venti4",
+        "character": "venti",
+        "img": "venti/venti4.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2254,11 +2450,11 @@
         }
     },
     {
-        "id":"177",
-        "name": "Len 16",
-        "character": "Len",
-        "img": "Len/Len_16.png",
-        "color": "#D3BD00",
+        "id": "178",
+        "name": "venti5",
+        "character": "venti",
+        "img": "venti/venti5.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2268,11 +2464,11 @@
         }
     },
     {
-        "id":"178",
-        "name": "Len 17",
-        "character": "Len",
-        "img": "Len/Len_17.png",
-        "color": "#D3BD00",
+        "id": "179",
+        "name": "venti6",
+        "character": "venti",
+        "img": "venti/venti6.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2282,11 +2478,11 @@
         }
     },
     {
-        "id":"179",
-        "name": "Luka 01",
-        "character": "Luka",
-        "img": "Luka/Luka_01.png",
-        "color": "#F88CA7",
+        "id": "180",
+        "name": "venti7",
+        "character": "venti",
+        "img": "venti/venti7.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2296,11 +2492,11 @@
         }
     },
     {
-        "id":"180",
-        "name": "Luka 02",
-        "character": "Luka",
-        "img": "Luka/Luka_02.png",
-        "color": "#F88CA7",
+        "id": "181",
+        "name": "venti8",
+        "character": "venti",
+        "img": "venti/venti8.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2310,11 +2506,11 @@
         }
     },
     {
-        "id":"181",
-        "name": "Luka 03",
-        "character": "Luka",
-        "img": "Luka/Luka_03.png",
-        "color": "#F88CA7",
+        "id": "182",
+        "name": "venti9",
+        "character": "venti",
+        "img": "venti/venti9.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2324,11 +2520,11 @@
         }
     },
     {
-        "id":"182",
-        "name": "Luka 04",
-        "character": "Luka",
-        "img": "Luka/Luka_04.png",
-        "color": "#F88CA7",
+        "id": "183",
+        "name": "vishap1",
+        "character": "vishap",
+        "img": "vishap/vishap1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2338,11 +2534,11 @@
         }
     },
     {
-        "id":"183",
-        "name": "Luka 06",
-        "character": "Luka",
-        "img": "Luka/Luka_06.png",
-        "color": "#F88CA7",
+        "id": "184",
+        "name": "vishap2",
+        "character": "vishap",
+        "img": "vishap/vishap2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2352,11 +2548,11 @@
         }
     },
     {
-        "id":"184",
-        "name": "Luka 07",
-        "character": "Luka",
-        "img": "Luka/Luka_07.png",
-        "color": "#F88CA7",
+        "id": "185",
+        "name": "vishap3",
+        "character": "vishap",
+        "img": "vishap/vishap3.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2366,11 +2562,11 @@
         }
     },
     {
-        "id":"185",
-        "name": "Luka 08",
-        "character": "Luka",
-        "img": "Luka/Luka_08.png",
-        "color": "#F88CA7",
+        "id": "186",
+        "name": "vishap4",
+        "character": "vishap",
+        "img": "vishap/vishap4.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2380,11 +2576,11 @@
         }
     },
     {
-        "id":"186",
-        "name": "Luka 09",
-        "character": "Luka",
-        "img": "Luka/Luka_09.png",
-        "color": "#F88CA7",
+        "id": "187",
+        "name": "xiangling1",
+        "character": "xiangling",
+        "img": "xiangling/xiangling1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2394,11 +2590,11 @@
         }
     },
     {
-        "id":"187",
-        "name": "Luka 11",
-        "character": "Luka",
-        "img": "Luka/Luka_11.png",
-        "color": "#F88CA7",
+        "id": "188",
+        "name": "xiangling2",
+        "character": "xiangling",
+        "img": "xiangling/xiangling2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2408,11 +2604,11 @@
         }
     },
     {
-        "id":"188",
-        "name": "Luka 12",
-        "character": "Luka",
-        "img": "Luka/Luka_12.png",
-        "color": "#F88CA7",
+        "id": "189",
+        "name": "xiao1",
+        "character": "xiao",
+        "img": "xiao/xiao1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2422,11 +2618,11 @@
         }
     },
     {
-        "id":"189",
-        "name": "Luka 13",
-        "character": "Luka",
-        "img": "Luka/Luka_13.png",
-        "color": "#F88CA7",
+        "id": "190",
+        "name": "xiao10",
+        "character": "xiao",
+        "img": "xiao/xiao10.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2436,11 +2632,11 @@
         }
     },
     {
-        "id":"190",
-        "name": "Luka 14",
-        "character": "Luka",
-        "img": "Luka/Luka_14.png",
-        "color": "#F88CA7",
+        "id": "191",
+        "name": "xiao2",
+        "character": "xiao",
+        "img": "xiao/xiao2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2450,11 +2646,11 @@
         }
     },
     {
-        "id":"191",
-        "name": "Luka 16",
-        "character": "Luka",
-        "img": "Luka/Luka_16.png",
-        "color": "#F88CA7",
+        "id": "192",
+        "name": "xiao3",
+        "character": "xiao",
+        "img": "xiao/xiao3.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2464,11 +2660,11 @@
         }
     },
     {
-        "id":"192",
-        "name": "Mafuyu 01",
-        "character": "Mafuyu",
-        "img": "Mafuyu/Mafuyu_01.png",
-        "color": "#7171AF",
+        "id": "193",
+        "name": "xiao4",
+        "character": "xiao",
+        "img": "xiao/xiao4.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2478,11 +2674,11 @@
         }
     },
     {
-        "id":"193",
-        "name": "Mafuyu 02",
-        "character": "Mafuyu",
-        "img": "Mafuyu/Mafuyu_02.png",
-        "color": "#7171AF",
+        "id": "194",
+        "name": "xiao5",
+        "character": "xiao",
+        "img": "xiao/xiao5.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2492,11 +2688,11 @@
         }
     },
     {
-        "id":"194",
-        "name": "Mafuyu 03",
-        "character": "Mafuyu",
-        "img": "Mafuyu/Mafuyu_03.png",
-        "color": "#7171AF",
+        "id": "195",
+        "name": "xiao6",
+        "character": "xiao",
+        "img": "xiao/xiao6.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2506,11 +2702,11 @@
         }
     },
     {
-        "id":"195",
-        "name": "Mafuyu 04",
-        "character": "Mafuyu",
-        "img": "Mafuyu/Mafuyu_04.png",
-        "color": "#7171AF",
+        "id": "196",
+        "name": "xiao7",
+        "character": "xiao",
+        "img": "xiao/xiao7.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2520,11 +2716,11 @@
         }
     },
     {
-        "id":"196",
-        "name": "Mafuyu 06",
-        "character": "Mafuyu",
-        "img": "Mafuyu/Mafuyu_06.png",
-        "color": "#7171AF",
+        "id": "197",
+        "name": "xiao8",
+        "character": "xiao",
+        "img": "xiao/xiao8.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2534,11 +2730,11 @@
         }
     },
     {
-        "id":"197",
-        "name": "Mafuyu 07",
-        "character": "Mafuyu",
-        "img": "Mafuyu/Mafuyu_07.png",
-        "color": "#7171AF",
+        "id": "198",
+        "name": "xiao9",
+        "character": "xiao",
+        "img": "xiao/xiao9.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2548,11 +2744,11 @@
         }
     },
     {
-        "id":"198",
-        "name": "Mafuyu 08",
-        "character": "Mafuyu",
-        "img": "Mafuyu/Mafuyu_08.png",
-        "color": "#7171AF",
+        "id": "199",
+        "name": "xingqiu1",
+        "character": "xingqiu",
+        "img": "xingqiu/xingqiu1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2562,11 +2758,11 @@
         }
     },
     {
-        "id":"199",
-        "name": "Mafuyu 09",
-        "character": "Mafuyu",
-        "img": "Mafuyu/Mafuyu_09.png",
-        "color": "#7171AF",
+        "id": "200",
+        "name": "xingqiu2",
+        "character": "xingqiu",
+        "img": "xingqiu/xingqiu2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2576,11 +2772,11 @@
         }
     },
     {
-        "id":"200",
-        "name": "Mafuyu 11",
-        "character": "Mafuyu",
-        "img": "Mafuyu/Mafuyu_11.png",
-        "color": "#7171AF",
+        "id": "201",
+        "name": "xingqiu3",
+        "character": "xingqiu",
+        "img": "xingqiu/xingqiu3.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2590,11 +2786,11 @@
         }
     },
     {
-        "id":"201",
-        "name": "Mafuyu 12",
-        "character": "Mafuyu",
-        "img": "Mafuyu/Mafuyu_12.png",
-        "color": "#7171AF",
+        "id": "202",
+        "name": "xingqiu4",
+        "character": "xingqiu",
+        "img": "xingqiu/xingqiu4.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2604,11 +2800,11 @@
         }
     },
     {
-        "id":"202",
-        "name": "Mafuyu 13",
-        "character": "Mafuyu",
-        "img": "Mafuyu/Mafuyu_13.png",
-        "color": "#7171AF",
+        "id": "203",
+        "name": "xinyan1",
+        "character": "xinyan",
+        "img": "xinyan/xinyan1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2618,11 +2814,11 @@
         }
     },
     {
-        "id":"203",
-        "name": "Mafuyu 14",
-        "character": "Mafuyu",
-        "img": "Mafuyu/Mafuyu_14.png",
-        "color": "#7171AF",
+        "id": "204",
+        "name": "xinyan2",
+        "character": "xinyan",
+        "img": "xinyan/xinyan2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2632,11 +2828,11 @@
         }
     },
     {
-        "id":"204",
-        "name": "Mafuyu 16",
-        "character": "Mafuyu",
-        "img": "Mafuyu/Mafuyu_16.png",
-        "color": "#7171AF",
+        "id": "205",
+        "name": "xinyan3",
+        "character": "xinyan",
+        "img": "xinyan/xinyan3.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2646,11 +2842,11 @@
         }
     },
     {
-        "id":"205",
-        "name": "Mafuyu 17",
-        "character": "Mafuyu",
-        "img": "Mafuyu/Mafuyu_17.png",
-        "color": "#7171AF",
+        "id": "206",
+        "name": "xinyan4",
+        "character": "xinyan",
+        "img": "xinyan/xinyan4.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2660,11 +2856,11 @@
         }
     },
     {
-        "id":"206",
-        "name": "Meiko 01",
-        "character": "Meiko",
-        "img": "Meiko/Meiko_01.png",
-        "color": "#E4485F",
+        "id": "207",
+        "name": "xinyan5",
+        "character": "xinyan",
+        "img": "xinyan/xinyan5.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2674,11 +2870,11 @@
         }
     },
     {
-        "id":"207",
-        "name": "Meiko 02",
-        "character": "Meiko",
-        "img": "Meiko/Meiko_02.png",
-        "color": "#E4485F",
+        "id": "208",
+        "name": "yae1",
+        "character": "yae",
+        "img": "yae/yae1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2688,11 +2884,11 @@
         }
     },
     {
-        "id":"208",
-        "name": "Meiko 03",
-        "character": "Meiko",
-        "img": "Meiko/Meiko_03.png",
-        "color": "#E4485F",
+        "id": "209",
+        "name": "yae2",
+        "character": "yae",
+        "img": "yae/yae2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2702,11 +2898,11 @@
         }
     },
     {
-        "id":"209",
-        "name": "Meiko 04",
-        "character": "Meiko",
-        "img": "Meiko/Meiko_04.png",
-        "color": "#E4485F",
+        "id": "210",
+        "name": "yae3",
+        "character": "yae",
+        "img": "yae/yae3.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2716,11 +2912,11 @@
         }
     },
     {
-        "id":"210",
-        "name": "Meiko 06",
-        "character": "Meiko",
-        "img": "Meiko/Meiko_06.png",
-        "color": "#E4485F",
+        "id": "211",
+        "name": "yae4",
+        "character": "yae",
+        "img": "yae/yae4.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2730,11 +2926,11 @@
         }
     },
     {
-        "id":"211",
-        "name": "Meiko 07",
-        "character": "Meiko",
-        "img": "Meiko/Meiko_07.png",
-        "color": "#E4485F",
+        "id": "212",
+        "name": "yanfei1",
+        "character": "yanfei",
+        "img": "yanfei/yanfei1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2744,11 +2940,11 @@
         }
     },
     {
-        "id":"212",
-        "name": "Meiko 08",
-        "character": "Meiko",
-        "img": "Meiko/Meiko_08.png",
-        "color": "#E4485F",
+        "id": "213",
+        "name": "yanfei2",
+        "character": "yanfei",
+        "img": "yanfei/yanfei2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2758,11 +2954,11 @@
         }
     },
     {
-        "id":"213",
-        "name": "Meiko 09",
-        "character": "Meiko",
-        "img": "Meiko/Meiko_09.png",
-        "color": "#E4485F",
+        "id": "214",
+        "name": "yanfei3",
+        "character": "yanfei",
+        "img": "yanfei/yanfei3.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2772,11 +2968,11 @@
         }
     },
     {
-        "id":"214",
-        "name": "Meiko 11",
-        "character": "Meiko",
-        "img": "Meiko/Meiko_11.png",
-        "color": "#E4485F",
+        "id": "215",
+        "name": "yanfei4",
+        "character": "yanfei",
+        "img": "yanfei/yanfei4.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2786,11 +2982,11 @@
         }
     },
     {
-        "id":"215",
-        "name": "Meiko 12",
-        "character": "Meiko",
-        "img": "Meiko/Meiko_12.png",
-        "color": "#E4485F",
+        "id": "216",
+        "name": "yoimiya1",
+        "character": "yoimiya",
+        "img": "yoimiya/yoimiya1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2800,11 +2996,11 @@
         }
     },
     {
-        "id":"216",
-        "name": "Meiko 13",
-        "character": "Meiko",
-        "img": "Meiko/Meiko_13.png",
-        "color": "#E4485F",
+        "id": "217",
+        "name": "yoimiya2",
+        "character": "yoimiya",
+        "img": "yoimiya/yoimiya2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2814,11 +3010,11 @@
         }
     },
     {
-        "id":"217",
-        "name": "Meiko 14",
-        "character": "Meiko",
-        "img": "Meiko/Meiko_14.png",
-        "color": "#E4485F",
+        "id": "218",
+        "name": "yoimiya3",
+        "character": "yoimiya",
+        "img": "yoimiya/yoimiya3.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2828,11 +3024,11 @@
         }
     },
     {
-        "id":"218",
-        "name": "Meiko 16",
-        "character": "Meiko",
-        "img": "Meiko/Meiko_16.png",
-        "color": "#E4485F",
+        "id": "219",
+        "name": "yoimiya4",
+        "character": "yoimiya",
+        "img": "yoimiya/yoimiya4.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2842,11 +3038,11 @@
         }
     },
     {
-        "id":"219",
-        "name": "Miku 01",
-        "character": "Miku",
-        "img": "Miku/Miku_01.png",
-        "color": "#33CCBB",
+        "id": "220",
+        "name": "zhongli1",
+        "character": "zhongli",
+        "img": "zhongli/zhongli1.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2856,11 +3052,11 @@
         }
     },
     {
-        "id":"220",
-        "name": "Miku 02",
-        "character": "Miku",
-        "img": "Miku/Miku_02.png",
-        "color": "#33CCBB",
+        "id": "221",
+        "name": "zhongli2",
+        "character": "zhongli",
+        "img": "zhongli/zhongli2.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2870,11 +3066,11 @@
         }
     },
     {
-        "id":"221",
-        "name": "Miku 03",
-        "character": "Miku",
-        "img": "Miku/Miku_03.png",
-        "color": "#33CCBB",
+        "id": "222",
+        "name": "zhongli3",
+        "character": "zhongli",
+        "img": "zhongli/zhongli3.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2884,11 +3080,11 @@
         }
     },
     {
-        "id":"222",
-        "name": "Miku 04",
-        "character": "Miku",
-        "img": "Miku/Miku_04.png",
-        "color": "#33CCBB",
+        "id": "223",
+        "name": "zhongli4",
+        "character": "zhongli",
+        "img": "zhongli/zhongli4.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2898,11 +3094,11 @@
         }
     },
     {
-        "id":"223",
-        "name": "Miku 06",
-        "character": "Miku",
-        "img": "Miku/Miku_06.png",
-        "color": "#33CCBB",
+        "id": "224",
+        "name": "zhongli5",
+        "character": "zhongli",
+        "img": "zhongli/zhongli5.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2912,11 +3108,11 @@
         }
     },
     {
-        "id":"224",
-        "name": "Miku 07",
-        "character": "Miku",
-        "img": "Miku/Miku_07.png",
-        "color": "#33CCBB",
+        "id": "225",
+        "name": "zhongli6",
+        "character": "zhongli",
+        "img": "zhongli/zhongli6.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
@@ -2926,2097 +3122,11 @@
         }
     },
     {
-        "id":"225",
-        "name": "Miku 08",
-        "character": "Miku",
-        "img": "Miku/Miku_08.png",
-        "color": "#33CCBB",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"226",
-        "name": "Miku 09",
-        "character": "Miku",
-        "img": "Miku/Miku_09.png",
-        "color": "#33CCBB",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"227",
-        "name": "Miku 11",
-        "character": "Miku",
-        "img": "Miku/Miku_11.png",
-        "color": "#33CCBB",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"228",
-        "name": "Miku 12",
-        "character": "Miku",
-        "img": "Miku/Miku_12.png",
-        "color": "#33CCBB",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"229",
-        "name": "Miku 13",
-        "character": "Miku",
-        "img": "Miku/Miku_13.png",
-        "color": "#33CCBB",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"230",
-        "name": "Miku 14",
-        "character": "Miku",
-        "img": "Miku/Miku_14.png",
-        "color": "#33CCBB",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"231",
-        "name": "Miku 16",
-        "character": "Miku",
-        "img": "Miku/Miku_16.png",
-        "color": "#33CCBB",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"232",
-        "name": "Minori 01",
-        "character": "Minori",
-        "img": "Minori/Minori_01.png",
-        "color": "#F39E7D",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"233",
-        "name": "Minori 02",
-        "character": "Minori",
-        "img": "Minori/Minori_02.png",
-        "color": "#F39E7D",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"234",
-        "name": "Minori 03",
-        "character": "Minori",
-        "img": "Minori/Minori_03.png",
-        "color": "#F39E7D",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"235",
-        "name": "Minori 04",
-        "character": "Minori",
-        "img": "Minori/Minori_04.png",
-        "color": "#F39E7D",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"236",
-        "name": "Minori 06",
-        "character": "Minori",
-        "img": "Minori/Minori_06.png",
-        "color": "#F39E7D",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"237",
-        "name": "Minori 07",
-        "character": "Minori",
-        "img": "Minori/Minori_07.png",
-        "color": "#F39E7D",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"238",
-        "name": "Minori 08",
-        "character": "Minori",
-        "img": "Minori/Minori_08.png",
-        "color": "#F39E7D",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"239",
-        "name": "Minori 09",
-        "character": "Minori",
-        "img": "Minori/Minori_09.png",
-        "color": "#F39E7D",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"240",
-        "name": "Minori 11",
-        "character": "Minori",
-        "img": "Minori/Minori_11.png",
-        "color": "#F39E7D",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"241",
-        "name": "Minori 12",
-        "character": "Minori",
-        "img": "Minori/Minori_12.png",
-        "color": "#F39E7D",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"242",
-        "name": "Minori 13",
-        "character": "Minori",
-        "img": "Minori/Minori_13.png",
-        "color": "#F39E7D",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"243",
-        "name": "Minori 14",
-        "character": "Minori",
-        "img": "Minori/Minori_14.png",
-        "color": "#F39E7D",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"244",
-        "name": "Minori 16",
-        "character": "Minori",
-        "img": "Minori/Minori_16.png",
-        "color": "#F39E7D",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"245",
-        "name": "Minori 17",
-        "character": "Minori",
-        "img": "Minori/Minori_17.png",
-        "color": "#F39E7D",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"246",
-        "name": "Mizuki 01",
-        "character": "Mizuki",
-        "img": "Mizuki/Mizuki_01.png",
-        "color": "#CA8DB6",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"247",
-        "name": "Mizuki 02",
-        "character": "Mizuki",
-        "img": "Mizuki/Mizuki_02.png",
-        "color": "#CA8DB6",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"248",
-        "name": "Mizuki 03",
-        "character": "Mizuki",
-        "img": "Mizuki/Mizuki_03.png",
-        "color": "#CA8DB6",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"249",
-        "name": "Mizuki 04",
-        "character": "Mizuki",
-        "img": "Mizuki/Mizuki_04.png",
-        "color": "#CA8DB6",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"250",
-        "name": "Mizuki 06",
-        "character": "Mizuki",
-        "img": "Mizuki/Mizuki_06.png",
-        "color": "#CA8DB6",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"251",
-        "name": "Mizuki 07",
-        "character": "Mizuki",
-        "img": "Mizuki/Mizuki_07.png",
-        "color": "#CA8DB6",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"252",
-        "name": "Mizuki 08",
-        "character": "Mizuki",
-        "img": "Mizuki/Mizuki_08.png",
-        "color": "#CA8DB6",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"253",
-        "name": "Mizuki 09",
-        "character": "Mizuki",
-        "img": "Mizuki/Mizuki_09.png",
-        "color": "#CA8DB6",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"254",
-        "name": "Mizuki 11",
-        "character": "Mizuki",
-        "img": "Mizuki/Mizuki_11.png",
-        "color": "#CA8DB6",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"255",
-        "name": "Mizuki 12",
-        "character": "Mizuki",
-        "img": "Mizuki/Mizuki_12.png",
-        "color": "#CA8DB6",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"256",
-        "name": "Mizuki 13",
-        "character": "Mizuki",
-        "img": "Mizuki/Mizuki_13.png",
-        "color": "#CA8DB6",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"257",
-        "name": "Mizuki 14",
-        "character": "Mizuki",
-        "img": "Mizuki/Mizuki_14.png",
-        "color": "#CA8DB6",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"258",
-        "name": "Mizuki 16",
-        "character": "Mizuki",
-        "img": "Mizuki/Mizuki_16.png",
-        "color": "#CA8DB6",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"259",
-        "name": "Mizuki 17",
-        "character": "Mizuki",
-        "img": "Mizuki/Mizuki_17.png",
-        "color": "#CA8DB6",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"260",
-        "name": "Nene 01",
-        "character": "Nene",
-        "img": "Nene/Nene_01.png",
-        "color": "#19CD94",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"261",
-        "name": "Nene 02",
-        "character": "Nene",
-        "img": "Nene/Nene_02.png",
-        "color": "#19CD94",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"262",
-        "name": "Nene 03",
-        "character": "Nene",
-        "img": "Nene/Nene_03.png",
-        "color": "#19CD94",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"263",
-        "name": "Nene 04",
-        "character": "Nene",
-        "img": "Nene/Nene_04.png",
-        "color": "#19CD94",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"264",
-        "name": "Nene 06",
-        "character": "Nene",
-        "img": "Nene/Nene_06.png",
-        "color": "#19CD94",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"265",
-        "name": "Nene 07",
-        "character": "Nene",
-        "img": "Nene/Nene_07.png",
-        "color": "#19CD94",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"266",
-        "name": "Nene 08",
-        "character": "Nene",
-        "img": "Nene/Nene_08.png",
-        "color": "#19CD94",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"267",
-        "name": "Nene 09",
-        "character": "Nene",
-        "img": "Nene/Nene_09.png",
-        "color": "#19CD94",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"268",
-        "name": "Nene 11",
-        "character": "Nene",
-        "img": "Nene/Nene_11.png",
-        "color": "#19CD94",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"269",
-        "name": "Nene 12",
-        "character": "Nene",
-        "img": "Nene/Nene_12.png",
-        "color": "#19CD94",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"270",
-        "name": "Nene 13",
-        "character": "Nene",
-        "img": "Nene/Nene_13.png",
-        "color": "#19CD94",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"271",
-        "name": "Nene 14",
-        "character": "Nene",
-        "img": "Nene/Nene_14.png",
-        "color": "#19CD94",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"272",
-        "name": "Nene 16",
-        "character": "Nene",
-        "img": "Nene/Nene_16.png",
-        "color": "#19CD94",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"273",
-        "name": "Rin 01",
-        "character": "Rin",
-        "img": "Rin/Rin_01.png",
-        "color": "#E8A505",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"274",
-        "name": "Rin 02",
-        "character": "Rin",
-        "img": "Rin/Rin_02.png",
-        "color": "#E8A505",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"275",
-        "name": "Rin 03",
-        "character": "Rin",
-        "img": "Rin/Rin_03.png",
-        "color": "#E8A505",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"276",
-        "name": "Rin 04",
-        "character": "Rin",
-        "img": "Rin/Rin_04.png",
-        "color": "#E8A505",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"277",
-        "name": "Rin 06",
-        "character": "Rin",
-        "img": "Rin/Rin_06.png",
-        "color": "#E8A505",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"278",
-        "name": "Rin 07",
-        "character": "Rin",
-        "img": "Rin/Rin_07.png",
-        "color": "#E8A505",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"279",
-        "name": "Rin 08",
-        "character": "Rin",
-        "img": "Rin/Rin_08.png",
-        "color": "#E8A505",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"280",
-        "name": "Rin 09",
-        "character": "Rin",
-        "img": "Rin/Rin_09.png",
-        "color": "#E8A505",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"281",
-        "name": "Rin 11",
-        "character": "Rin",
-        "img": "Rin/Rin_11.png",
-        "color": "#E8A505",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"282",
-        "name": "Rin 12",
-        "character": "Rin",
-        "img": "Rin/Rin_12.png",
-        "color": "#E8A505",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"283",
-        "name": "Rin 13",
-        "character": "Rin",
-        "img": "Rin/Rin_13.png",
-        "color": "#E8A505",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"284",
-        "name": "Rin 14",
-        "character": "Rin",
-        "img": "Rin/Rin_14.png",
-        "color": "#E8A505",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"285",
-        "name": "Rin 16",
-        "character": "Rin",
-        "img": "Rin/Rin_16.png",
-        "color": "#E8A505",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"286",
-        "name": "Rui 01",
-        "character": "Rui",
-        "img": "Rui/Rui_01.png",
-        "color": "#BB88EE",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"287",
-        "name": "Rui 02",
-        "character": "Rui",
-        "img": "Rui/Rui_02.png",
-        "color": "#BB88EE",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"288",
-        "name": "Rui 03",
-        "character": "Rui",
-        "img": "Rui/Rui_03.png",
-        "color": "#BB88EE",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"289",
-        "name": "Rui 04",
-        "character": "Rui",
-        "img": "Rui/Rui_04.png",
-        "color": "#BB88EE",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"290",
-        "name": "Rui 06",
-        "character": "Rui",
-        "img": "Rui/Rui_06.png",
-        "color": "#BB88EE",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"291",
-        "name": "Rui 07",
-        "character": "Rui",
-        "img": "Rui/Rui_07.png",
-        "color": "#BB88EE",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"292",
-        "name": "Rui 08",
-        "character": "Rui",
-        "img": "Rui/Rui_08.png",
-        "color": "#BB88EE",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"293",
-        "name": "Rui 09",
-        "character": "Rui",
-        "img": "Rui/Rui_09.png",
-        "color": "#BB88EE",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"294",
-        "name": "Rui 11",
-        "character": "Rui",
-        "img": "Rui/Rui_11.png",
-        "color": "#BB88EE",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"295",
-        "name": "Rui 12",
-        "character": "Rui",
-        "img": "Rui/Rui_12.png",
-        "color": "#BB88EE",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"296",
-        "name": "Rui 13",
-        "character": "Rui",
-        "img": "Rui/Rui_13.png",
-        "color": "#BB88EE",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"297",
-        "name": "Rui 14",
-        "character": "Rui",
-        "img": "Rui/Rui_14.png",
-        "color": "#BB88EE",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"298",
-        "name": "Rui 16",
-        "character": "Rui",
-        "img": "Rui/Rui_16.png",
-        "color": "#BB88EE",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"299",
-        "name": "Rui 17",
-        "character": "Rui",
-        "img": "Rui/Rui_17.png",
-        "color": "#BB88EE",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"300",
-        "name": "Rui 18",
-        "character": "Rui",
-        "img": "Rui/Rui_18.png",
-        "color": "#BB88EE",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"301",
-        "name": "Rui 19",
-        "character": "Rui",
-        "img": "Rui/Rui_19.png",
-        "color": "#BB88EE",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"302",
-        "name": "Saki 01",
-        "character": "Saki",
-        "img": "Saki/Saki_01.png",
-        "color": "#F5B303",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"303",
-        "name": "Saki 02",
-        "character": "Saki",
-        "img": "Saki/Saki_02.png",
-        "color": "#F5B303",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"304",
-        "name": "Saki 03",
-        "character": "Saki",
-        "img": "Saki/Saki_03.png",
-        "color": "#F5B303",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"305",
-        "name": "Saki 04",
-        "character": "Saki",
-        "img": "Saki/Saki_04.png",
-        "color": "#F5B303",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"306",
-        "name": "Saki 06",
-        "character": "Saki",
-        "img": "Saki/Saki_06.png",
-        "color": "#F5B303",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"307",
-        "name": "Saki 07",
-        "character": "Saki",
-        "img": "Saki/Saki_07.png",
-        "color": "#F5B303",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"308",
-        "name": "Saki 08",
-        "character": "Saki",
-        "img": "Saki/Saki_08.png",
-        "color": "#F5B303",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"309",
-        "name": "Saki 09",
-        "character": "Saki",
-        "img": "Saki/Saki_09.png",
-        "color": "#F5B303",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"310",
-        "name": "Saki 11",
-        "character": "Saki",
-        "img": "Saki/Saki_11.png",
-        "color": "#F5B303",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"311",
-        "name": "Saki 12",
-        "character": "Saki",
-        "img": "Saki/Saki_12.png",
-        "color": "#F5B303",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"312",
-        "name": "Saki 13",
-        "character": "Saki",
-        "img": "Saki/Saki_13.png",
-        "color": "#F5B303",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"313",
-        "name": "Saki 14",
-        "character": "Saki",
-        "img": "Saki/Saki_14.png",
-        "color": "#F5B303",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"314",
-        "name": "Saki 16",
-        "character": "Saki",
-        "img": "Saki/Saki_16.png",
-        "color": "#F5B303",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"315",
-        "name": "Saki 17",
-        "character": "Saki",
-        "img": "Saki/Saki_17.png",
-        "color": "#F5B303",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"316",
-        "name": "Saki 18",
-        "character": "Saki",
-        "img": "Saki/Saki_18.png",
-        "color": "#F5B303",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"317",
-        "name": "Shiho 01",
-        "character": "Shiho",
-        "img": "Shiho/Shiho_01.png",
-        "color": "#A0C10B",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"318",
-        "name": "Shiho 02",
-        "character": "Shiho",
-        "img": "Shiho/Shiho_02.png",
-        "color": "#A0C10B",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"319",
-        "name": "Shiho 03",
-        "character": "Shiho",
-        "img": "Shiho/Shiho_03.png",
-        "color": "#A0C10B",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"320",
-        "name": "Shiho 04",
-        "character": "Shiho",
-        "img": "Shiho/Shiho_04.png",
-        "color": "#A0C10B",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"321",
-        "name": "Shiho 06",
-        "character": "Shiho",
-        "img": "Shiho/Shiho_06.png",
-        "color": "#A0C10B",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"322",
-        "name": "Shiho 07",
-        "character": "Shiho",
-        "img": "Shiho/Shiho_07.png",
-        "color": "#A0C10B",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"323",
-        "name": "Shiho 08",
-        "character": "Shiho",
-        "img": "Shiho/Shiho_08.png",
-        "color": "#A0C10B",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"324",
-        "name": "Shiho 09",
-        "character": "Shiho",
-        "img": "Shiho/Shiho_09.png",
-        "color": "#A0C10B",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"325",
-        "name": "Shiho 11",
-        "character": "Shiho",
-        "img": "Shiho/Shiho_11.png",
-        "color": "#A0C10B",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"326",
-        "name": "Shiho 12",
-        "character": "Shiho",
-        "img": "Shiho/Shiho_12.png",
-        "color": "#A0C10B",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"327",
-        "name": "Shiho 13",
-        "character": "Shiho",
-        "img": "Shiho/Shiho_13.png",
-        "color": "#A0C10B",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"328",
-        "name": "Shiho 14",
-        "character": "Shiho",
-        "img": "Shiho/Shiho_14.png",
-        "color": "#A0C10B",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"329",
-        "name": "Shiho 16",
-        "character": "Shiho",
-        "img": "Shiho/Shiho_16.png",
-        "color": "#A0C10B",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"330",
-        "name": "Shiho 17",
-        "character": "Shiho",
-        "img": "Shiho/Shiho_17.png",
-        "color": "#A0C10B",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"331",
-        "name": "Shiho 18",
-        "character": "Shiho",
-        "img": "Shiho/Shiho_18.png",
-        "color": "#A0C10B",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"332",
-        "name": "Shizuku 01",
-        "character": "Shizuku",
-        "img": "Shizuku/Shizuku_01.png",
-        "color": "#5CD0B9",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"333",
-        "name": "Shizuku 02",
-        "character": "Shizuku",
-        "img": "Shizuku/Shizuku_02.png",
-        "color": "#5CD0B9",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"334",
-        "name": "Shizuku 03",
-        "character": "Shizuku",
-        "img": "Shizuku/Shizuku_03.png",
-        "color": "#5CD0B9",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"335",
-        "name": "Shizuku 04",
-        "character": "Shizuku",
-        "img": "Shizuku/Shizuku_04.png",
-        "color": "#5CD0B9",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"336",
-        "name": "Shizuku 06",
-        "character": "Shizuku",
-        "img": "Shizuku/Shizuku_06.png",
-        "color": "#5CD0B9",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"337",
-        "name": "Shizuku 07",
-        "character": "Shizuku",
-        "img": "Shizuku/Shizuku_07.png",
-        "color": "#5CD0B9",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"338",
-        "name": "Shizuku 08",
-        "character": "Shizuku",
-        "img": "Shizuku/Shizuku_08.png",
-        "color": "#5CD0B9",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"339",
-        "name": "Shizuku 09",
-        "character": "Shizuku",
-        "img": "Shizuku/Shizuku_09.png",
-        "color": "#5CD0B9",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"340",
-        "name": "Shizuku 11",
-        "character": "Shizuku",
-        "img": "Shizuku/Shizuku_11.png",
-        "color": "#5CD0B9",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"341",
-        "name": "Shizuku 12",
-        "character": "Shizuku",
-        "img": "Shizuku/Shizuku_12.png",
-        "color": "#5CD0B9",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"342",
-        "name": "Shizuku 13",
-        "character": "Shizuku",
-        "img": "Shizuku/Shizuku_13.png",
-        "color": "#5CD0B9",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"343",
-        "name": "Shizuku 14",
-        "character": "Shizuku",
-        "img": "Shizuku/Shizuku_14.png",
-        "color": "#5CD0B9",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"344",
-        "name": "Shizuku 16",
-        "character": "Shizuku",
-        "img": "Shizuku/Shizuku_16.png",
-        "color": "#5CD0B9",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"345",
-        "name": "Touya 01",
-        "character": "Touya",
-        "img": "Touya/Touya_01.png",
-        "color": "#0077DD",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"346",
-        "name": "Touya 02",
-        "character": "Touya",
-        "img": "Touya/Touya_02.png",
-        "color": "#0077DD",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"347",
-        "name": "Touya 03",
-        "character": "Touya",
-        "img": "Touya/Touya_03.png",
-        "color": "#0077DD",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"348",
-        "name": "Touya 04",
-        "character": "Touya",
-        "img": "Touya/Touya_04.png",
-        "color": "#0077DD",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"349",
-        "name": "Touya 06",
-        "character": "Touya",
-        "img": "Touya/Touya_06.png",
-        "color": "#0077DD",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"350",
-        "name": "Touya 07",
-        "character": "Touya",
-        "img": "Touya/Touya_07.png",
-        "color": "#0077DD",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"351",
-        "name": "Touya 08",
-        "character": "Touya",
-        "img": "Touya/Touya_08.png",
-        "color": "#0077DD",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"352",
-        "name": "Touya 09",
-        "character": "Touya",
-        "img": "Touya/Touya_09.png",
-        "color": "#0077DD",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"353",
-        "name": "Touya 11",
-        "character": "Touya",
-        "img": "Touya/Touya_11.png",
-        "color": "#0077DD",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"354",
-        "name": "Touya 12",
-        "character": "Touya",
-        "img": "Touya/Touya_12.png",
-        "color": "#0077DD",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"355",
-        "name": "Touya 13",
-        "character": "Touya",
-        "img": "Touya/Touya_13.png",
-        "color": "#0077DD",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"356",
-        "name": "Touya 14",
-        "character": "Touya",
-        "img": "Touya/Touya_14.png",
-        "color": "#0077DD",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"357",
-        "name": "Touya 16",
-        "character": "Touya",
-        "img": "Touya/Touya_16.png",
-        "color": "#0077DD",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"358",
-        "name": "Touya 17",
-        "character": "Touya",
-        "img": "Touya/Touya_17.png",
-        "color": "#0077DD",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"359",
-        "name": "Touya 18",
-        "character": "Touya",
-        "img": "Touya/Touya_18.png",
-        "color": "#0077DD",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"360",
-        "name": "Tsukasa 01",
-        "character": "Tsukasa",
-        "img": "Tsukasa/Tsukasa_01.png",
-        "color": "#F09A04",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"361",
-        "name": "Tsukasa 02",
-        "character": "Tsukasa",
-        "img": "Tsukasa/Tsukasa_02.png",
-        "color": "#F09A04",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"362",
-        "name": "Tsukasa 03",
-        "character": "Tsukasa",
-        "img": "Tsukasa/Tsukasa_03.png",
-        "color": "#F09A04",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"363",
-        "name": "Tsukasa 04",
-        "character": "Tsukasa",
-        "img": "Tsukasa/Tsukasa_04.png",
-        "color": "#F09A04",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"364",
-        "name": "Tsukasa 06",
-        "character": "Tsukasa",
-        "img": "Tsukasa/Tsukasa_06.png",
-        "color": "#F09A04",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"365",
-        "name": "Tsukasa 07",
-        "character": "Tsukasa",
-        "img": "Tsukasa/Tsukasa_07.png",
-        "color": "#F09A04",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"366",
-        "name": "Tsukasa 08",
-        "character": "Tsukasa",
-        "img": "Tsukasa/Tsukasa_08.png",
-        "color": "#F09A04",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"367",
-        "name": "Tsukasa 09",
-        "character": "Tsukasa",
-        "img": "Tsukasa/Tsukasa_09.png",
-        "color": "#F09A04",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"368",
-        "name": "Tsukasa 11",
-        "character": "Tsukasa",
-        "img": "Tsukasa/Tsukasa_11.png",
-        "color": "#F09A04",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"369",
-        "name": "Tsukasa 12",
-        "character": "Tsukasa",
-        "img": "Tsukasa/Tsukasa_12.png",
-        "color": "#F09A04",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"370",
-        "name": "Tsukasa 13",
-        "character": "Tsukasa",
-        "img": "Tsukasa/Tsukasa_13.png",
-        "color": "#F09A04",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"371",
-        "name": "Tsukasa 14",
-        "character": "Tsukasa",
-        "img": "Tsukasa/Tsukasa_14.png",
-        "color": "#F09A04",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"372",
-        "name": "Tsukasa 16",
-        "character": "Tsukasa",
-        "img": "Tsukasa/Tsukasa_16.png",
-        "color": "#F09A04",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"373",
-        "name": "Tsukasa 17",
-        "character": "Tsukasa",
-        "img": "Tsukasa/Tsukasa_17.png",
-        "color": "#F09A04",
-        "defaultText": {
-            "text": "something",
-            "x": 148,
-            "y": 58,
-            "r": -2,
-            "s": 47
-        }
-    },
-    {
-        "id":"374",
-        "name": "Tsukasa 18",
-        "character": "Tsukasa",
-        "img": "Tsukasa/Tsukasa_18.png",
-        "color": "#F09A04",
+        "id": "226",
+        "name": "zhongli7",
+        "character": "zhongli",
+        "img": "zhongli/zhongli7.png",
+        "color": "#FB8AAC",
         "defaultText": {
             "text": "something",
             "x": 148,
