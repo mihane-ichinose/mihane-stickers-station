@@ -10,6 +10,7 @@ import Picker from "./components/Picker";
 import Info from "./components/Info";
 import getConfiguration from "./utils/config";
 import log from "./utils/log";
+import { CirclePicker } from "react-color";
 
 const { ClipboardItem } = window;
 
@@ -43,6 +44,7 @@ function App() {
   const [rotate, setRotate] = useState(characters[character].defaultText.r);
   const [curve, setCurve] = useState(false);
   const [loaded, setLoaded] = useState(false);
+  const [fontColor, setFontColor] = useState(characters[character].color);
   const img = new Image();
 
   useEffect(() => {
@@ -94,7 +96,7 @@ function App() {
       ctx.rotate(rotate / 10);
       ctx.textAlign = "center";
       ctx.strokeStyle = "white";
-      ctx.fillStyle = characters[character].color;
+      ctx.fillStyle = fontColor;
       var lines = text.split("\n");
       if (curve) {
         for (let line of lines) {
@@ -236,6 +238,32 @@ function App() {
                 checked={curve}
                 onChange={(e) => setCurve(e.target.checked)}
                 color="secondary"
+              />
+            </div>
+            <div>
+              <label>Text Color: </label>
+              <CirclePicker
+                color={fontColor}
+                onChangeComplete={(color) => { setFontColor(color.hex)}}
+                // colors={["red", "orange", "yellow", "green", "blue", "indigo", "violet"]}
+                colors={[
+                  "#FF66BB",
+                  "#FB8AAC",
+                  "#f44336",
+                  "#e91e63",
+                  "#9c27b0",
+                  "#673ab7",
+                  "#3f51b5",
+                  "#2196f3",
+                  "#00bcd4",
+                  "#009688",
+                  "#4caf50",
+                  "#8bc34a",
+                  "#ffc107",
+                  "#ff9800",
+                  "#ff5722",
+                  "#795548",
+                  "#607d8b",]}
               />
             </div>
           </div>
