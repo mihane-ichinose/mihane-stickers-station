@@ -1,7 +1,5 @@
 # Genshin Impact Stickers
 
-Link to site [here](https://efevans.github.io/genshin-stickers/)
-
 Updated with Genshin Impact stickers from the Sekai Stickers project [here](https://github.com/TheOriginalAyaka/sekai-stickers)
 
 ## Credit
