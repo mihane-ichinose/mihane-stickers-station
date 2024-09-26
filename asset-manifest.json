@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/genshin-stickers/static/css/main.add5d574.css",
-    "main.js": "/genshin-stickers/static/js/main.54571887.js",
-    "static/media/YurukaStd.woff2": "/genshin-stickers/static/media/YurukaStd.e4589185c34a94a462b4.woff2",
-    "index.html": "/genshin-stickers/index.html",
-    "main.add5d574.css.map": "/genshin-stickers/static/css/main.add5d574.css.map",
-    "main.54571887.js.map": "/genshin-stickers/static/js/main.54571887.js.map"
+    "main.css": "/mihane-stickers-station/static/css/main.add5d574.css",
+    "main.js": "/mihane-stickers-station/static/js/main.54571887.js",
+    "static/media/YurukaStd.woff2": "/mihane-stickers-station/static/media/YurukaStd.e4589185c34a94a462b4.woff2",
+    "index.html": "/mihane-stickers-station/index.html",
+    "main.add5d574.css.map": "/mihane-stickers-station/static/css/main.add5d574.css.map",
+    "main.54571887.js.map": "/mihane-stickers-station/static/js/main.54571887.js.map"
   },
   "entrypoints": [
     "static/css/main.add5d574.css",
