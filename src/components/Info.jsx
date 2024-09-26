@@ -31,7 +31,7 @@ export default function Info({ open, handleClose }) {
                 button
                 onClick={() =>
                   (window.location.href =
-                    "https://st.ayaka.one/")
+                    "https://github.com/mihane-ichinose/mihane-stickers-station")
                 }
               >
                 <ListItemAvatar>
@@ -40,7 +40,7 @@ export default function Info({ open, handleClose }) {
                     src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
                   />
                 </ListItemAvatar>
-                <ListItemText primary="Sekai Impact Stickers" secondary="Source Code" />
+                <ListItemText primary="Mihane Stickers Station" secondary="Source Code" />
               </ListItem>
             </List>
           </DialogContentText>

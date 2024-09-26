@@ -33,7 +33,7 @@ function App() {
     setInfoOpen(false);
   };
 
-  const [character, setCharacter] = useState(49);
+  const [character, setCharacter] = useState(117);
   const [text, setText] = useState(characters[character].defaultText.text);
   const [position, setPosition] = useState({
     x: characters[character].defaultText.x,
@@ -123,7 +123,7 @@ function App() {
   const download = () => {
     const canvas = document.getElementsByTagName("canvas")[0];
     const link = document.createElement("a");
-    link.download = `${characters[character].name}_st.ayaka.one.png`;
+    link.download = `${characters[character].name}_MihaneStickersStation.png`;
     link.href = canvas.toDataURL();
     link.click();
     log(characters[character].id, characters[character].name, "download");
