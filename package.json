@@ -1,7 +1,7 @@
 {
-  "name": "sekai-stickers",
+  "name": "mihane-stickers-station",
   "version": "0.1.0",
-  "homepage": "https://efevans.github.io/genshin-stickers",
+  "homepage": "https://mihane-ichinose.github.io/mihane-stickers-station/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.4",
@@ -15,7 +15,7 @@
     "react": "^18.2.0",
     "react-color": "^2.19.3",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^5.0.1",
     "react-slider": "^2.0.4",
     "web-vitals": "^2.1.4",
     "workbox-precaching": "^6.5.4"
