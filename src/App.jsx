@@ -59,8 +59,10 @@ function App() {
     setLoaded(false);
   }, [character]);
 
-  // Set to mihane-stickers-station/img/ under dev mode, change back to img/ before deployment
-  img.src = "img/" + characters[character].img;
+  // When using npm start locally the NODE_ENV is 'development', uses mihane-stickers-station/img/
+  // When using npm run build on Github Pages the NODE_ENV is 'production', uses img/
+  const publicUrl = process.env.NODE_ENV === 'development' ? 'mihane-stickers-station/' : '';
+  img.src = `${publicUrl}img/` + characters[character].img;
 
   img.onload = () => {
     setLoaded(true);
