@@ -1,0 +1,4067 @@
+[
+  {
+    "id": 631,
+    "name": "acheron1",
+    "character": "acheron",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/acheron/acheron1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 632,
+    "name": "acheron2",
+    "character": "acheron",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/acheron/acheron2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 633,
+    "name": "acheron3",
+    "character": "acheron",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/acheron/acheron3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 634,
+    "name": "acheron4",
+    "character": "acheron",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/acheron/acheron4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 635,
+    "name": "argenti1",
+    "character": "argenti",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/argenti/argenti1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 636,
+    "name": "argenti2",
+    "character": "argenti",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/argenti/argenti2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 637,
+    "name": "argenti3",
+    "character": "argenti",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/argenti/argenti3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 638,
+    "name": "argenti4",
+    "character": "argenti",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/argenti/argenti4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 639,
+    "name": "arlan1",
+    "character": "arlan",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/arlan/arlan1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 640,
+    "name": "arlan2",
+    "character": "arlan",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/arlan/arlan2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 641,
+    "name": "asta1",
+    "character": "asta",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/asta/asta1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 642,
+    "name": "asta2",
+    "character": "asta",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/asta/asta2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 643,
+    "name": "aventurine1",
+    "character": "aventurine",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/aventurine/aventurine1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 644,
+    "name": "aventurine2",
+    "character": "aventurine",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/aventurine/aventurine2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 645,
+    "name": "aventurine3",
+    "character": "aventurine",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/aventurine/aventurine3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 646,
+    "name": "aventurine4",
+    "character": "aventurine",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/aventurine/aventurine4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 647,
+    "name": "bailu1",
+    "character": "bailu",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/bailu/bailu1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 648,
+    "name": "bailu2",
+    "character": "bailu",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/bailu/bailu2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 649,
+    "name": "bailu3",
+    "character": "bailu",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/bailu/bailu3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 650,
+    "name": "bailu4",
+    "character": "bailu",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/bailu/bailu4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 651,
+    "name": "blackswan1",
+    "character": "blackswan",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/blackswan/blackswan1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 652,
+    "name": "blackswan2",
+    "character": "blackswan",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/blackswan/blackswan2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 653,
+    "name": "blackswan3",
+    "character": "blackswan",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/blackswan/blackswan3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 654,
+    "name": "blackswan4",
+    "character": "blackswan",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/blackswan/blackswan4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 655,
+    "name": "blade1",
+    "character": "blade",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/blade/blade1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 656,
+    "name": "blade2",
+    "character": "blade",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/blade/blade2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 657,
+    "name": "blade3",
+    "character": "blade",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/blade/blade3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 658,
+    "name": "blade4",
+    "character": "blade",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/blade/blade4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 659,
+    "name": "blade5",
+    "character": "blade",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/blade/blade5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 660,
+    "name": "boothill1",
+    "character": "boothill",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/boothill/boothill1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 661,
+    "name": "boothill2",
+    "character": "boothill",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/boothill/boothill2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 662,
+    "name": "boothill3",
+    "character": "boothill",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/boothill/boothill3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 663,
+    "name": "boothill4",
+    "character": "boothill",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/boothill/boothill4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 664,
+    "name": "boothill5",
+    "character": "boothill",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/boothill/boothill5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 665,
+    "name": "boothill6",
+    "character": "boothill",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/boothill/boothill6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 666,
+    "name": "bronya1",
+    "character": "bronya",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/bronya/bronya1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 667,
+    "name": "caelus1",
+    "character": "caelus",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/caelus/caelus1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 668,
+    "name": "caelus2",
+    "character": "caelus",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/caelus/caelus2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 669,
+    "name": "caelus3",
+    "character": "caelus",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/caelus/caelus3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 670,
+    "name": "caelus4",
+    "character": "caelus",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/caelus/caelus4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 671,
+    "name": "clara1",
+    "character": "clara",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/clara/clara1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 672,
+    "name": "danheng1",
+    "character": "danheng",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/danheng/danheng1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 673,
+    "name": "danheng2",
+    "character": "danheng",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/danheng/danheng2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 674,
+    "name": "danheng3",
+    "character": "danheng",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/danheng/danheng3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 675,
+    "name": "danheng4",
+    "character": "danheng",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/danheng/danheng4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 676,
+    "name": "danheng5",
+    "character": "danheng",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/danheng/danheng5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 677,
+    "name": "danheng6",
+    "character": "danheng",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/danheng/danheng6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 678,
+    "name": "dr.ratio1",
+    "character": "dr.ratio",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/dr.ratio/dr.ratio1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 679,
+    "name": "dr.ratio2",
+    "character": "dr.ratio",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/dr.ratio/dr.ratio2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 680,
+    "name": "dr.ratio3",
+    "character": "dr.ratio",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/dr.ratio/dr.ratio3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 681,
+    "name": "dr.ratio4",
+    "character": "dr.ratio",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/dr.ratio/dr.ratio4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 682,
+    "name": "feixiao1",
+    "character": "feixiao",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/feixiao/feixiao1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 683,
+    "name": "feixiao2",
+    "character": "feixiao",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/feixiao/feixiao2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 684,
+    "name": "feixiao3",
+    "character": "feixiao",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/feixiao/feixiao3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 685,
+    "name": "feixiao4",
+    "character": "feixiao",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/feixiao/feixiao4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 686,
+    "name": "feixiao5",
+    "character": "feixiao",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/feixiao/feixiao5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 687,
+    "name": "firefly1",
+    "character": "firefly",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/firefly/firefly1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 688,
+    "name": "firefly2",
+    "character": "firefly",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/firefly/firefly2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 689,
+    "name": "firefly3",
+    "character": "firefly",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/firefly/firefly3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 690,
+    "name": "firefly4",
+    "character": "firefly",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/firefly/firefly4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 691,
+    "name": "fuxuan1",
+    "character": "fuxuan",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/fuxuan/fuxuan1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 692,
+    "name": "fuxuan2",
+    "character": "fuxuan",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/fuxuan/fuxuan2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 693,
+    "name": "fuxuan3",
+    "character": "fuxuan",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/fuxuan/fuxuan3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 694,
+    "name": "fuxuan4",
+    "character": "fuxuan",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/fuxuan/fuxuan4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 695,
+    "name": "fuxuan5",
+    "character": "fuxuan",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/fuxuan/fuxuan5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 696,
+    "name": "gallagher1",
+    "character": "gallagher",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/gallagher/gallagher1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 697,
+    "name": "gallagher2",
+    "character": "gallagher",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/gallagher/gallagher2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 698,
+    "name": "gallagher3",
+    "character": "gallagher",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/gallagher/gallagher3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 699,
+    "name": "gepard1",
+    "character": "gepard",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/gepard/gepard1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 700,
+    "name": "gepard2",
+    "character": "gepard",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/gepard/gepard2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 701,
+    "name": "guinaifen1",
+    "character": "guinaifen",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/guinaifen/guinaifen1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 702,
+    "name": "guinaifen2",
+    "character": "guinaifen",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/guinaifen/guinaifen2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 703,
+    "name": "guinaifen3",
+    "character": "guinaifen",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/guinaifen/guinaifen3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 704,
+    "name": "guinaifen4",
+    "character": "guinaifen",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/guinaifen/guinaifen4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 705,
+    "name": "guinaifen5",
+    "character": "guinaifen",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/guinaifen/guinaifen5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 706,
+    "name": "hanya1",
+    "character": "hanya",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/hanya/hanya1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 707,
+    "name": "hanya2",
+    "character": "hanya",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/hanya/hanya2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 708,
+    "name": "hanya3",
+    "character": "hanya",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/hanya/hanya3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 709,
+    "name": "herta1",
+    "character": "herta",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/herta/herta1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 710,
+    "name": "herta2",
+    "character": "herta",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/herta/herta2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 711,
+    "name": "herta3",
+    "character": "herta",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/herta/herta3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 712,
+    "name": "himeko1",
+    "character": "himeko",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/himeko/himeko1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 713,
+    "name": "himeko2",
+    "character": "himeko",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/himeko/himeko2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 714,
+    "name": "hook1",
+    "character": "hook",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/hook/hook1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 715,
+    "name": "hook2",
+    "character": "hook",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/hook/hook2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 716,
+    "name": "huohuo1",
+    "character": "huohuo",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/huohuo/huohuo1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 717,
+    "name": "huohuo2",
+    "character": "huohuo",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/huohuo/huohuo2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 718,
+    "name": "huohuo3",
+    "character": "huohuo",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/huohuo/huohuo3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 719,
+    "name": "huohuo4",
+    "character": "huohuo",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/huohuo/huohuo4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 720,
+    "name": "jade1",
+    "character": "jade",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/jade/jade1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 721,
+    "name": "jade2",
+    "character": "jade",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/jade/jade2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 722,
+    "name": "jade3",
+    "character": "jade",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/jade/jade3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 723,
+    "name": "jade4",
+    "character": "jade",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/jade/jade4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 724,
+    "name": "jiaoqiu1",
+    "character": "jiaoqiu",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/jiaoqiu/jiaoqiu1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 725,
+    "name": "jiaoqiu2",
+    "character": "jiaoqiu",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/jiaoqiu/jiaoqiu2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 726,
+    "name": "jiaoqiu3",
+    "character": "jiaoqiu",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/jiaoqiu/jiaoqiu3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 727,
+    "name": "jiaoqiu4",
+    "character": "jiaoqiu",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/jiaoqiu/jiaoqiu4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 728,
+    "name": "jingliu1",
+    "character": "jingliu",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/jingliu/jingliu1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 729,
+    "name": "jingliu2",
+    "character": "jingliu",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/jingliu/jingliu2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 730,
+    "name": "jingliu3",
+    "character": "jingliu",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/jingliu/jingliu3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 731,
+    "name": "jingliu4",
+    "character": "jingliu",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/jingliu/jingliu4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 732,
+    "name": "jingyuan1",
+    "character": "jingyuan",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/jingyuan/jingyuan1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 733,
+    "name": "jingyuan2",
+    "character": "jingyuan",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/jingyuan/jingyuan2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 734,
+    "name": "jingyuan3",
+    "character": "jingyuan",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/jingyuan/jingyuan3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 735,
+    "name": "kafka1",
+    "character": "kafka",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/kafka/kafka1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 736,
+    "name": "kafka2",
+    "character": "kafka",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/kafka/kafka2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 737,
+    "name": "kafka3",
+    "character": "kafka",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/kafka/kafka3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 738,
+    "name": "kafka4",
+    "character": "kafka",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/kafka/kafka4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 739,
+    "name": "kafka5",
+    "character": "kafka",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/kafka/kafka5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 740,
+    "name": "lingsha1",
+    "character": "lingsha",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/lingsha/lingsha1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 741,
+    "name": "lingsha2",
+    "character": "lingsha",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/lingsha/lingsha2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 742,
+    "name": "lingsha3",
+    "character": "lingsha",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/lingsha/lingsha3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 743,
+    "name": "lingsha4",
+    "character": "lingsha",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/lingsha/lingsha4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 744,
+    "name": "luka1",
+    "character": "luka",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/luka/luka1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 745,
+    "name": "luka2",
+    "character": "luka",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/luka/luka2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 746,
+    "name": "luka3",
+    "character": "luka",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/luka/luka3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 747,
+    "name": "luocha1",
+    "character": "luocha",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/luocha/luocha1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 748,
+    "name": "lynx1",
+    "character": "lynx",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/lynx/lynx1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 749,
+    "name": "lynx2",
+    "character": "lynx",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/lynx/lynx2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 750,
+    "name": "lynx3",
+    "character": "lynx",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/lynx/lynx3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 751,
+    "name": "march7th1",
+    "character": "march7th",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/march7th/march7th1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 752,
+    "name": "march7th10",
+    "character": "march7th",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/march7th/march7th10.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 753,
+    "name": "march7th11",
+    "character": "march7th",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/march7th/march7th11.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 754,
+    "name": "march7th12",
+    "character": "march7th",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/march7th/march7th12.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 755,
+    "name": "march7th13",
+    "character": "march7th",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/march7th/march7th13.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 756,
+    "name": "march7th14",
+    "character": "march7th",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/march7th/march7th14.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 757,
+    "name": "march7th15",
+    "character": "march7th",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/march7th/march7th15.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 758,
+    "name": "march7th16",
+    "character": "march7th",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/march7th/march7th16.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 759,
+    "name": "march7th17",
+    "character": "march7th",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/march7th/march7th17.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 760,
+    "name": "march7th18",
+    "character": "march7th",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/march7th/march7th18.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 761,
+    "name": "march7th19",
+    "character": "march7th",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/march7th/march7th19.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 762,
+    "name": "march7th2",
+    "character": "march7th",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/march7th/march7th2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 763,
+    "name": "march7th20",
+    "character": "march7th",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/march7th/march7th20.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 764,
+    "name": "march7th3",
+    "character": "march7th",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/march7th/march7th3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 765,
+    "name": "march7th4",
+    "character": "march7th",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/march7th/march7th4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 766,
+    "name": "march7th5",
+    "character": "march7th",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/march7th/march7th5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 767,
+    "name": "march7th6",
+    "character": "march7th",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/march7th/march7th6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 768,
+    "name": "march7th7",
+    "character": "march7th",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/march7th/march7th7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 769,
+    "name": "march7th8",
+    "character": "march7th",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/march7th/march7th8.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 770,
+    "name": "march7th9",
+    "character": "march7th",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/march7th/march7th9.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 771,
+    "name": "misha1",
+    "character": "misha",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/misha/misha1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 772,
+    "name": "misha2",
+    "character": "misha",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/misha/misha2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 773,
+    "name": "misha3",
+    "character": "misha",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/misha/misha3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 774,
+    "name": "moze1",
+    "character": "moze",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/moze/moze1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 775,
+    "name": "moze2",
+    "character": "moze",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/moze/moze2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 776,
+    "name": "moze3",
+    "character": "moze",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/moze/moze3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 777,
+    "name": "mr.reca1",
+    "character": "mr.reca",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/mr.reca/mr.reca1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 778,
+    "name": "mr.reca2",
+    "character": "mr.reca",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/mr.reca/mr.reca2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 779,
+    "name": "mr.reca3",
+    "character": "mr.reca",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/mr.reca/mr.reca3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 780,
+    "name": "natasha1",
+    "character": "natasha",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/natasha/natasha1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 781,
+    "name": "carmella",
+    "character": "other",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/other/carmella.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 782,
+    "name": "cheers",
+    "character": "other",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/other/cheers.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 783,
+    "name": "clockie1",
+    "character": "other",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/other/clockie1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 784,
+    "name": "clockie2",
+    "character": "other",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/other/clockie2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 785,
+    "name": "critter",
+    "character": "other",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/other/critter.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 786,
+    "name": "crocodile",
+    "character": "other",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/other/crocodile.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 787,
+    "name": "cycrane",
+    "character": "other",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/other/cycrane.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 788,
+    "name": "dreamjolttroupe-mr.domescreen",
+    "character": "other",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/other/dreamjolttroupe-mr.domescreen.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 789,
+    "name": "drunkpersonvomiting",
+    "character": "other",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/other/drunkpersonvomiting.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 790,
+    "name": "generalhuaiyan",
+    "character": "other",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/other/generalhuaiyan.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 791,
+    "name": "hanu",
+    "character": "other",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/other/hanu.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 792,
+    "name": "kakavasha",
+    "character": "other",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/other/kakavasha.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 793,
+    "name": "mikhail",
+    "character": "other",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/other/mikhail.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 794,
+    "name": "origamibird",
+    "character": "other",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/other/origamibird.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 795,
+    "name": "other",
+    "character": "other",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/other/other.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 796,
+    "name": "peppy",
+    "character": "other",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/other/peppy.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 797,
+    "name": "raccoon1",
+    "character": "other",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/other/raccoon1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 798,
+    "name": "raccoon2",
+    "character": "other",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/other/raccoon2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 799,
+    "name": "raccoon3",
+    "character": "other",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/other/raccoon3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 800,
+    "name": "screwllum",
+    "character": "other",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/other/screwllum.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 801,
+    "name": "slumbernanamonkey1",
+    "character": "other",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/other/slumbernanamonkey1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 802,
+    "name": "slumbernanamonkey2",
+    "character": "other",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/other/slumbernanamonkey2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 803,
+    "name": "slumbernanamonkey3",
+    "character": "other",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/other/slumbernanamonkey3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 804,
+    "name": "tail",
+    "character": "other",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/other/tail.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 805,
+    "name": "talisman",
+    "character": "other",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/other/talisman.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 806,
+    "name": "trashcan",
+    "character": "other",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/other/trashcan.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 807,
+    "name": "tuskpir",
+    "character": "other",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/other/tuskpir.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 808,
+    "name": "pela1",
+    "character": "pela",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/pela/pela1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 809,
+    "name": "pela2",
+    "character": "pela",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/pela/pela2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 810,
+    "name": "pom-pom1",
+    "character": "pom-pom",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/pom-pom/pom-pom1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 811,
+    "name": "pom-pom10",
+    "character": "pom-pom",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/pom-pom/pom-pom10.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 812,
+    "name": "pom-pom11",
+    "character": "pom-pom",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/pom-pom/pom-pom11.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 813,
+    "name": "pom-pom12",
+    "character": "pom-pom",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/pom-pom/pom-pom12.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 814,
+    "name": "pom-pom13",
+    "character": "pom-pom",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/pom-pom/pom-pom13.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 815,
+    "name": "pom-pom14",
+    "character": "pom-pom",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/pom-pom/pom-pom14.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 816,
+    "name": "pom-pom15",
+    "character": "pom-pom",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/pom-pom/pom-pom15.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 817,
+    "name": "pom-pom16",
+    "character": "pom-pom",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/pom-pom/pom-pom16.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 818,
+    "name": "pom-pom17",
+    "character": "pom-pom",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/pom-pom/pom-pom17.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 819,
+    "name": "pom-pom18",
+    "character": "pom-pom",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/pom-pom/pom-pom18.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 820,
+    "name": "pom-pom19",
+    "character": "pom-pom",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/pom-pom/pom-pom19.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 821,
+    "name": "pom-pom2",
+    "character": "pom-pom",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/pom-pom/pom-pom2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 822,
+    "name": "pom-pom20",
+    "character": "pom-pom",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/pom-pom/pom-pom20.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 823,
+    "name": "pom-pom21",
+    "character": "pom-pom",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/pom-pom/pom-pom21.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 824,
+    "name": "pom-pom22",
+    "character": "pom-pom",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/pom-pom/pom-pom22.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 825,
+    "name": "pom-pom23",
+    "character": "pom-pom",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/pom-pom/pom-pom23.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 826,
+    "name": "pom-pom24",
+    "character": "pom-pom",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/pom-pom/pom-pom24.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 827,
+    "name": "pom-pom25",
+    "character": "pom-pom",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/pom-pom/pom-pom25.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 828,
+    "name": "pom-pom26",
+    "character": "pom-pom",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/pom-pom/pom-pom26.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 829,
+    "name": "pom-pom27",
+    "character": "pom-pom",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/pom-pom/pom-pom27.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 830,
+    "name": "pom-pom28",
+    "character": "pom-pom",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/pom-pom/pom-pom28.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 831,
+    "name": "pom-pom29",
+    "character": "pom-pom",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/pom-pom/pom-pom29.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 832,
+    "name": "pom-pom3",
+    "character": "pom-pom",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/pom-pom/pom-pom3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 833,
+    "name": "pom-pom30",
+    "character": "pom-pom",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/pom-pom/pom-pom30.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 834,
+    "name": "pom-pom31",
+    "character": "pom-pom",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/pom-pom/pom-pom31.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 835,
+    "name": "pom-pom32",
+    "character": "pom-pom",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/pom-pom/pom-pom32.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 836,
+    "name": "pom-pom33",
+    "character": "pom-pom",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/pom-pom/pom-pom33.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 837,
+    "name": "pom-pom34",
+    "character": "pom-pom",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/pom-pom/pom-pom34.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 838,
+    "name": "pom-pom4",
+    "character": "pom-pom",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/pom-pom/pom-pom4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 839,
+    "name": "pom-pom5",
+    "character": "pom-pom",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/pom-pom/pom-pom5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 840,
+    "name": "pom-pom6",
+    "character": "pom-pom",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/pom-pom/pom-pom6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 841,
+    "name": "pom-pom7",
+    "character": "pom-pom",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/pom-pom/pom-pom7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 842,
+    "name": "pom-pom8",
+    "character": "pom-pom",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/pom-pom/pom-pom8.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 843,
+    "name": "pom-pom9",
+    "character": "pom-pom",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/pom-pom/pom-pom9.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 844,
+    "name": "qingque1",
+    "character": "qingque",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/qingque/qingque1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 845,
+    "name": "qingque2",
+    "character": "qingque",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/qingque/qingque2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 846,
+    "name": "rappa1",
+    "character": "rappa",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/rappa/rappa1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 847,
+    "name": "rappa2",
+    "character": "rappa",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/rappa/rappa2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 848,
+    "name": "rappa3",
+    "character": "rappa",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/rappa/rappa3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 849,
+    "name": "rappa4",
+    "character": "rappa",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/rappa/rappa4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 850,
+    "name": "robin1",
+    "character": "robin",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/robin/robin1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 851,
+    "name": "robin2",
+    "character": "robin",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/robin/robin2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 852,
+    "name": "robin3",
+    "character": "robin",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/robin/robin3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 853,
+    "name": "robin4",
+    "character": "robin",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/robin/robin4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 854,
+    "name": "robin5",
+    "character": "robin",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/robin/robin5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 855,
+    "name": "ruanmei1",
+    "character": "ruanmei",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/ruanmei/ruanmei1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 856,
+    "name": "ruanmei2",
+    "character": "ruanmei",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/ruanmei/ruanmei2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 857,
+    "name": "ruanmei3",
+    "character": "ruanmei",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/ruanmei/ruanmei3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 858,
+    "name": "ruanmei4",
+    "character": "ruanmei",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/ruanmei/ruanmei4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 859,
+    "name": "sampo1",
+    "character": "sampo",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/sampo/sampo1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 860,
+    "name": "sampo2",
+    "character": "sampo",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/sampo/sampo2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 861,
+    "name": "sampo3",
+    "character": "sampo",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/sampo/sampo3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 862,
+    "name": "sampo4",
+    "character": "sampo",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/sampo/sampo4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 863,
+    "name": "serval1",
+    "character": "serval",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/serval/serval1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 864,
+    "name": "serval2",
+    "character": "serval",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/serval/serval2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 865,
+    "name": "silverwolf1",
+    "character": "silverwolf",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/silverwolf/silverwolf1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 866,
+    "name": "sparkle1",
+    "character": "sparkle",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/sparkle/sparkle1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 867,
+    "name": "sparkle2",
+    "character": "sparkle",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/sparkle/sparkle2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 868,
+    "name": "sparkle3",
+    "character": "sparkle",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/sparkle/sparkle3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 869,
+    "name": "sparkle4",
+    "character": "sparkle",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/sparkle/sparkle4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 870,
+    "name": "sparkle5",
+    "character": "sparkle",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/sparkle/sparkle5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 871,
+    "name": "sparkle6",
+    "character": "sparkle",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/sparkle/sparkle6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 872,
+    "name": "stelle1",
+    "character": "stelle",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/stelle/stelle1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 873,
+    "name": "stelle2",
+    "character": "stelle",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/stelle/stelle2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 874,
+    "name": "stelle3",
+    "character": "stelle",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/stelle/stelle3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 875,
+    "name": "stelle4",
+    "character": "stelle",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/stelle/stelle4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 876,
+    "name": "sunday1",
+    "character": "sunday",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/sunday/sunday1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 877,
+    "name": "sushang1",
+    "character": "sushang",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/sushang/sushang1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 878,
+    "name": "sushang2",
+    "character": "sushang",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/sushang/sushang2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 879,
+    "name": "sushang3",
+    "character": "sushang",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/sushang/sushang3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 880,
+    "name": "sushang4",
+    "character": "sushang",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/sushang/sushang4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 881,
+    "name": "tingyun1",
+    "character": "tingyun",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/tingyun/tingyun1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 882,
+    "name": "tingyun2",
+    "character": "tingyun",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/tingyun/tingyun2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 883,
+    "name": "topaz1",
+    "character": "topaz",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/topaz/topaz1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 884,
+    "name": "topaz2",
+    "character": "topaz",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/topaz/topaz2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 885,
+    "name": "topaz3",
+    "character": "topaz",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/topaz/topaz3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 886,
+    "name": "topaz4",
+    "character": "topaz",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/topaz/topaz4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 887,
+    "name": "topaz5",
+    "character": "topaz",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/topaz/topaz5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 888,
+    "name": "welt1",
+    "character": "welt",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/welt/welt1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 889,
+    "name": "welt2",
+    "character": "welt",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/welt/welt2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 890,
+    "name": "xueyi1",
+    "character": "xueyi",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/xueyi/xueyi1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 891,
+    "name": "xueyi2",
+    "character": "xueyi",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/xueyi/xueyi2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 892,
+    "name": "xueyi3",
+    "character": "xueyi",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/xueyi/xueyi3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 893,
+    "name": "yanqing1",
+    "character": "yanqing",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/yanqing/yanqing1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 894,
+    "name": "yanqing2",
+    "character": "yanqing",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/yanqing/yanqing2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 895,
+    "name": "yanqing3",
+    "character": "yanqing",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/yanqing/yanqing3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 896,
+    "name": "yukong1",
+    "character": "yukong",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/yukong/yukong1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 897,
+    "name": "yukong2",
+    "character": "yukong",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/yukong/yukong2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 898,
+    "name": "yunli1",
+    "character": "yunli",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/yunli/yunli1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 899,
+    "name": "yunli2",
+    "character": "yunli",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/yunli/yunli2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 900,
+    "name": "yunli3",
+    "character": "yunli",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/yunli/yunli3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 901,
+    "name": "yunli4",
+    "character": "yunli",
+    "tag": "Honkai: Star Rail",
+    "img": "Star_Rail/yunli/yunli4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  }
+]

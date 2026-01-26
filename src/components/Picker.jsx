@@ -8,7 +8,16 @@ import {
   ToggleButtonGroup,
 } from "@mui/material";
 import { useState, useMemo } from "react";
-import characters from "../characters.json";
+import genshinCharacters from "../characters/genshin_impact.json";
+import starRailCharacters from "../characters/honkai_star_rail.json";
+import wuwaCharacters from "../characters/wuthering_waves.json";
+
+// Merge all character arrays into one
+const characters = [
+  ...genshinCharacters,
+  ...starRailCharacters,
+  ...wuwaCharacters
+];
 
 export default function Picker({ setCharacter }) {
   const [anchorEl, setAnchorEl] = useState(null);
@@ -63,8 +72,8 @@ export default function Picker({ setCharacter }) {
           }}
         >
           <img
-            src={`img/${c.img}`}
-            srcSet={`img/${c.img}`}
+            src={`${process.env.PUBLIC_URL}/img/${c.img}`}
+            srcSet={`${process.env.PUBLIC_URL}/img/${c.img}`}
             alt={c.name}
             loading="lazy"
           />

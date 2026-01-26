@@ -1,0 +1,9467 @@
+[
+  {
+    "id": 0,
+    "name": "aether1",
+    "character": "aether",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/aether/aether1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 1,
+    "name": "aether2",
+    "character": "aether",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/aether/aether2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 2,
+    "name": "albedo1",
+    "character": "albedo",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/albedo/albedo1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 3,
+    "name": "albedo2",
+    "character": "albedo",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/albedo/albedo2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 4,
+    "name": "albedo3",
+    "character": "albedo",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/albedo/albedo3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 5,
+    "name": "albedo4",
+    "character": "albedo",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/albedo/albedo4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 6,
+    "name": "albedo5",
+    "character": "albedo",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/albedo/albedo5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 7,
+    "name": "albedo6",
+    "character": "albedo",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/albedo/albedo6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 8,
+    "name": "albedo7",
+    "character": "albedo",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/albedo/albedo7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 9,
+    "name": "albedo8",
+    "character": "albedo",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/albedo/albedo8.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 10,
+    "name": "alhaitham1",
+    "character": "alhaitham",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/alhaitham/alhaitham1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 11,
+    "name": "alhaitham2",
+    "character": "alhaitham",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/alhaitham/alhaitham2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 12,
+    "name": "alhaitham3",
+    "character": "alhaitham",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/alhaitham/alhaitham3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 13,
+    "name": "alhaitham4",
+    "character": "alhaitham",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/alhaitham/alhaitham4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 14,
+    "name": "amber1",
+    "character": "amber",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/amber/amber1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 15,
+    "name": "amber2",
+    "character": "amber",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/amber/amber2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 16,
+    "name": "amber3",
+    "character": "amber",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/amber/amber3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 17,
+    "name": "amber4",
+    "character": "amber",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/amber/amber4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 18,
+    "name": "aratakiitto1",
+    "character": "aratakiitto",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/aratakiitto/aratakiitto1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 19,
+    "name": "aratakiitto2",
+    "character": "aratakiitto",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/aratakiitto/aratakiitto2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 20,
+    "name": "aratakiitto3",
+    "character": "aratakiitto",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/aratakiitto/aratakiitto3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 21,
+    "name": "aratakiitto4",
+    "character": "aratakiitto",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/aratakiitto/aratakiitto4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 22,
+    "name": "aratakiitto5",
+    "character": "aratakiitto",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/aratakiitto/aratakiitto5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 23,
+    "name": "aratakiitto6",
+    "character": "aratakiitto",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/aratakiitto/aratakiitto6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 24,
+    "name": "aratakiitto7",
+    "character": "aratakiitto",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/aratakiitto/aratakiitto7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 25,
+    "name": "aratakiitto8",
+    "character": "aratakiitto",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/aratakiitto/aratakiitto8.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 26,
+    "name": "aratakiitto9",
+    "character": "aratakiitto",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/aratakiitto/aratakiitto9.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 27,
+    "name": "arlecchino1",
+    "character": "arlecchino",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/arlecchino/arlecchino1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 28,
+    "name": "arlecchino2",
+    "character": "arlecchino",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/arlecchino/arlecchino2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 29,
+    "name": "arlecchino3",
+    "character": "arlecchino",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/arlecchino/arlecchino3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 30,
+    "name": "baizhu1",
+    "character": "baizhu",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/baizhu/baizhu1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 31,
+    "name": "baizhu2",
+    "character": "baizhu",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/baizhu/baizhu2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 32,
+    "name": "baizhu3",
+    "character": "baizhu",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/baizhu/baizhu3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 33,
+    "name": "baizhu4",
+    "character": "baizhu",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/baizhu/baizhu4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 34,
+    "name": "barbara1",
+    "character": "barbara",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/barbara/barbara1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 35,
+    "name": "barbara2",
+    "character": "barbara",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/barbara/barbara2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 36,
+    "name": "barbara3",
+    "character": "barbara",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/barbara/barbara3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 37,
+    "name": "barbara4",
+    "character": "barbara",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/barbara/barbara4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 38,
+    "name": "beidou1",
+    "character": "beidou",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/beidou/beidou1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 39,
+    "name": "beidou2",
+    "character": "beidou",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/beidou/beidou2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 40,
+    "name": "bennett1",
+    "character": "benett",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/benett/bennett1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 41,
+    "name": "candace1",
+    "character": "candace",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/candace/candace1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 42,
+    "name": "candace2",
+    "character": "candace",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/candace/candace2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 43,
+    "name": "candace3",
+    "character": "candace",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/candace/candace3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 44,
+    "name": "candace4",
+    "character": "candace",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/candace/candace4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 45,
+    "name": "candace5",
+    "character": "candace",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/candace/candace5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 46,
+    "name": "charlotte1",
+    "character": "charlotte",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/charlotte/charlotte1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 47,
+    "name": "charlotte2",
+    "character": "charlotte",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/charlotte/charlotte2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 48,
+    "name": "charlotte3",
+    "character": "charlotte",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/charlotte/charlotte3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 49,
+    "name": "charlotte4",
+    "character": "charlotte",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/charlotte/charlotte4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 50,
+    "name": "charlotte5",
+    "character": "charlotte",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/charlotte/charlotte5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 51,
+    "name": "charlotte6",
+    "character": "charlotte",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/charlotte/charlotte6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 52,
+    "name": "chasca1",
+    "character": "chasca",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/chasca/chasca1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 53,
+    "name": "chasca2",
+    "character": "chasca",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/chasca/chasca2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 54,
+    "name": "chasca3",
+    "character": "chasca",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/chasca/chasca3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 55,
+    "name": "chasca4",
+    "character": "chasca",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/chasca/chasca4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 56,
+    "name": "chasca5",
+    "character": "chasca",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/chasca/chasca5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 57,
+    "name": "chasca6",
+    "character": "chasca",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/chasca/chasca6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 58,
+    "name": "chevreuse1",
+    "character": "chevreuse",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/chevreuse/chevreuse1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 59,
+    "name": "chevreuse2",
+    "character": "chevreuse",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/chevreuse/chevreuse2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 60,
+    "name": "chevreuse3",
+    "character": "chevreuse",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/chevreuse/chevreuse3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 61,
+    "name": "chevreuse4",
+    "character": "chevreuse",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/chevreuse/chevreuse4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 62,
+    "name": "chevreuse5",
+    "character": "chevreuse",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/chevreuse/chevreuse5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 63,
+    "name": "childe1",
+    "character": "childe",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/childe/childe1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 64,
+    "name": "childe10",
+    "character": "childe",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/childe/childe10.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 65,
+    "name": "childe2",
+    "character": "childe",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/childe/childe2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 66,
+    "name": "childe3",
+    "character": "childe",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/childe/childe3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 67,
+    "name": "childe4",
+    "character": "childe",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/childe/childe4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 68,
+    "name": "childe5",
+    "character": "childe",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/childe/childe5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 69,
+    "name": "childe6",
+    "character": "childe",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/childe/childe6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 70,
+    "name": "childe7",
+    "character": "childe",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/childe/childe7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 71,
+    "name": "childe8",
+    "character": "childe",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/childe/childe8.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 72,
+    "name": "childe9",
+    "character": "childe",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/childe/childe9.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 73,
+    "name": "chiori1",
+    "character": "chiori",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/chiori/chiori1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 74,
+    "name": "chiori2",
+    "character": "chiori",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/chiori/chiori2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 75,
+    "name": "chiori3",
+    "character": "chiori",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/chiori/chiori3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 76,
+    "name": "chiori4",
+    "character": "chiori",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/chiori/chiori4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 77,
+    "name": "chongyun1",
+    "character": "chongyun",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/chongyun/chongyun1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 78,
+    "name": "chongyun2",
+    "character": "chongyun",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/chongyun/chongyun2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 79,
+    "name": "citlali1",
+    "character": "citlali",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/citlali/citlali1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 80,
+    "name": "citlali2",
+    "character": "citlali",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/citlali/citlali2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 81,
+    "name": "citlali3",
+    "character": "citlali",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/citlali/citlali3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 82,
+    "name": "citlali4",
+    "character": "citlali",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/citlali/citlali4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 83,
+    "name": "citlali5",
+    "character": "citlali",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/citlali/citlali5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 84,
+    "name": "citlali6",
+    "character": "citlali",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/citlali/citlali6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 85,
+    "name": "citlali7",
+    "character": "citlali",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/citlali/citlali7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 86,
+    "name": "citlali8",
+    "character": "citlali",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/citlali/citlali8.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 87,
+    "name": "clorinde1",
+    "character": "clorinde",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/clorinde/clorinde1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 88,
+    "name": "clorinde2",
+    "character": "clorinde",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/clorinde/clorinde2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 89,
+    "name": "clorinde3",
+    "character": "clorinde",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/clorinde/clorinde3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 90,
+    "name": "collei1",
+    "character": "collei",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/collei/collei1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 91,
+    "name": "collei2",
+    "character": "collei",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/collei/collei2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 92,
+    "name": "collei3",
+    "character": "collei",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/collei/collei3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 93,
+    "name": "collei4",
+    "character": "collei",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/collei/collei4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 94,
+    "name": "collei5",
+    "character": "collei",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/collei/collei5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 95,
+    "name": "collei6",
+    "character": "collei",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/collei/collei6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 96,
+    "name": "collei7",
+    "character": "collei",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/collei/collei7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 97,
+    "name": "collei8",
+    "character": "collei",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/collei/collei8.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 98,
+    "name": "collei9",
+    "character": "collei",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/collei/collei9.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 99,
+    "name": "cyno1",
+    "character": "cyno",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/cyno/cyno1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 100,
+    "name": "cyno2",
+    "character": "cyno",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/cyno/cyno2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 101,
+    "name": "cyno3",
+    "character": "cyno",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/cyno/cyno3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 102,
+    "name": "cyno4",
+    "character": "cyno",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/cyno/cyno4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 103,
+    "name": "cyno5",
+    "character": "cyno",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/cyno/cyno5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 104,
+    "name": "cyno6",
+    "character": "cyno",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/cyno/cyno6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 105,
+    "name": "cyno7",
+    "character": "cyno",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/cyno/cyno7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 106,
+    "name": "cyno8",
+    "character": "cyno",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/cyno/cyno8.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 107,
+    "name": "cyno9",
+    "character": "cyno",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/cyno/cyno9.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 108,
+    "name": "dehya1",
+    "character": "dehya",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/dehya/dehya1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 109,
+    "name": "dehya2",
+    "character": "dehya",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/dehya/dehya2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 110,
+    "name": "dehya3",
+    "character": "dehya",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/dehya/dehya3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 111,
+    "name": "dehya4",
+    "character": "dehya",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/dehya/dehya4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 112,
+    "name": "diluc1",
+    "character": "diluc",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/diluc/diluc1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 113,
+    "name": "diluc2",
+    "character": "diluc",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/diluc/diluc2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 114,
+    "name": "diona1",
+    "character": "diona",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/diona/diona1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 115,
+    "name": "diona2",
+    "character": "diona",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/diona/diona2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 116,
+    "name": "diona3",
+    "character": "diona",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/diona/diona3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 117,
+    "name": "diona4",
+    "character": "diona",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/diona/diona4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 118,
+    "name": "diona5",
+    "character": "diona",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/diona/diona5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 119,
+    "name": "diona6",
+    "character": "diona",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/diona/diona6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 120,
+    "name": "diona7",
+    "character": "diona",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/diona/diona7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 121,
+    "name": "dori1",
+    "character": "dori",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/dori/dori1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 122,
+    "name": "dori2",
+    "character": "dori",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/dori/dori2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 123,
+    "name": "dori3",
+    "character": "dori",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/dori/dori3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 124,
+    "name": "dori4",
+    "character": "dori",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/dori/dori4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 125,
+    "name": "emilie1",
+    "character": "emilie",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/emilie/emilie1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 126,
+    "name": "emilie2",
+    "character": "emilie",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/emilie/emilie2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 127,
+    "name": "emilie3",
+    "character": "emilie",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/emilie/emilie3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 128,
+    "name": "emilie4",
+    "character": "emilie",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/emilie/emilie4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 129,
+    "name": "eula1",
+    "character": "eula",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/eula/eula1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 130,
+    "name": "eula2",
+    "character": "eula",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/eula/eula2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 131,
+    "name": "eula3",
+    "character": "eula",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/eula/eula3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 132,
+    "name": "eula4",
+    "character": "eula",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/eula/eula4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 133,
+    "name": "eula5",
+    "character": "eula",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/eula/eula5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 134,
+    "name": "eula6",
+    "character": "eula",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/eula/eula6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 135,
+    "name": "eula7",
+    "character": "eula",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/eula/eula7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 136,
+    "name": "eula8",
+    "character": "eula",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/eula/eula8.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 137,
+    "name": "eula9",
+    "character": "eula",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/eula/eula9.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 138,
+    "name": "faruzan1",
+    "character": "faruzan",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/faruzan/faruzan1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 139,
+    "name": "faruzan2",
+    "character": "faruzan",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/faruzan/faruzan2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 140,
+    "name": "faruzan3",
+    "character": "faruzan",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/faruzan/faruzan3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 141,
+    "name": "faruzan4",
+    "character": "faruzan",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/faruzan/faruzan4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 142,
+    "name": "faruzan5",
+    "character": "faruzan",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/faruzan/faruzan5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 143,
+    "name": "faruzan6",
+    "character": "faruzan",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/faruzan/faruzan6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 144,
+    "name": "fischl1",
+    "character": "fischl",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/fischl/fischl1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 145,
+    "name": "fischl2",
+    "character": "fischl",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/fischl/fischl2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 146,
+    "name": "fischl3",
+    "character": "fischl",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/fischl/fischl3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 147,
+    "name": "fischl4",
+    "character": "fischl",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/fischl/fischl4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 148,
+    "name": "freminet1",
+    "character": "freminet",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/freminet/freminet1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 149,
+    "name": "freminet2",
+    "character": "freminet",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/freminet/freminet2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 150,
+    "name": "freminet3",
+    "character": "freminet",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/freminet/freminet3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 151,
+    "name": "freminet4",
+    "character": "freminet",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/freminet/freminet4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 152,
+    "name": "freminet5",
+    "character": "freminet",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/freminet/freminet5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 153,
+    "name": "freminet6",
+    "character": "freminet",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/freminet/freminet6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 154,
+    "name": "freminet7",
+    "character": "freminet",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/freminet/freminet7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 155,
+    "name": "furina1",
+    "character": "furina",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/furina/furina1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 156,
+    "name": "furina2",
+    "character": "furina",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/furina/furina2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 157,
+    "name": "furina3",
+    "character": "furina",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/furina/furina3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 158,
+    "name": "furina4",
+    "character": "furina",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/furina/furina4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 159,
+    "name": "furina5",
+    "character": "furina",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/furina/furina5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 160,
+    "name": "furina6",
+    "character": "furina",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/furina/furina6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 161,
+    "name": "gaming1",
+    "character": "gaming",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/gaming/gaming1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 162,
+    "name": "gaming2",
+    "character": "gaming",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/gaming/gaming2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 163,
+    "name": "gaming3",
+    "character": "gaming",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/gaming/gaming3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 164,
+    "name": "gaming4",
+    "character": "gaming",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/gaming/gaming4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 165,
+    "name": "ganyu1",
+    "character": "ganyu",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/ganyu/ganyu1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 166,
+    "name": "ganyu2",
+    "character": "ganyu",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/ganyu/ganyu2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 167,
+    "name": "ganyu3",
+    "character": "ganyu",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/ganyu/ganyu3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 168,
+    "name": "ganyu4",
+    "character": "ganyu",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/ganyu/ganyu4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 169,
+    "name": "ganyu5",
+    "character": "ganyu",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/ganyu/ganyu5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 170,
+    "name": "ganyu6",
+    "character": "ganyu",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/ganyu/ganyu6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 171,
+    "name": "ganyu7",
+    "character": "ganyu",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/ganyu/ganyu7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 172,
+    "name": "ganyu8",
+    "character": "ganyu",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/ganyu/ganyu8.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 173,
+    "name": "gorou1",
+    "character": "gorou",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/gorou/gorou1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 174,
+    "name": "gorou2",
+    "character": "gorou",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/gorou/gorou2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 175,
+    "name": "gorou3",
+    "character": "gorou",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/gorou/gorou3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 176,
+    "name": "gorou4",
+    "character": "gorou",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/gorou/gorou4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 177,
+    "name": "gorou5",
+    "character": "gorou",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/gorou/gorou5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 178,
+    "name": "heizou1",
+    "character": "heizou",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/heizou/heizou1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 179,
+    "name": "heizou2",
+    "character": "heizou",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/heizou/heizou2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 180,
+    "name": "heizou3",
+    "character": "heizou",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/heizou/heizou3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 181,
+    "name": "heizou4",
+    "character": "heizou",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/heizou/heizou4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 182,
+    "name": "hutao1",
+    "character": "hutao",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/hutao/hutao1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 183,
+    "name": "hutao10",
+    "character": "hutao",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/hutao/hutao10.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 184,
+    "name": "hutao11",
+    "character": "hutao",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/hutao/hutao11.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 185,
+    "name": "hutao12",
+    "character": "hutao",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/hutao/hutao12.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 186,
+    "name": "hutao13",
+    "character": "hutao",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/hutao/hutao13.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 187,
+    "name": "hutao14",
+    "character": "hutao",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/hutao/hutao14.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 188,
+    "name": "hutao15",
+    "character": "hutao",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/hutao/hutao15.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 189,
+    "name": "hutao16",
+    "character": "hutao",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/hutao/hutao16.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 190,
+    "name": "hutao17",
+    "character": "hutao",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/hutao/hutao17.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 191,
+    "name": "hutao18",
+    "character": "hutao",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/hutao/hutao18.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 192,
+    "name": "hutao2",
+    "character": "hutao",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/hutao/hutao2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 193,
+    "name": "hutao3",
+    "character": "hutao",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/hutao/hutao3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 194,
+    "name": "hutao4",
+    "character": "hutao",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/hutao/hutao4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 195,
+    "name": "hutao5",
+    "character": "hutao",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/hutao/hutao5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 196,
+    "name": "hutao6",
+    "character": "hutao",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/hutao/hutao6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 197,
+    "name": "hutao7",
+    "character": "hutao",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/hutao/hutao7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 198,
+    "name": "hutao8",
+    "character": "hutao",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/hutao/hutao8.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 199,
+    "name": "hutao9",
+    "character": "hutao",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/hutao/hutao9.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 200,
+    "name": "iansan1",
+    "character": "iansan",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/iansan/iansan1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 201,
+    "name": "iansan2",
+    "character": "iansan",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/iansan/iansan2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 202,
+    "name": "iansan3",
+    "character": "iansan",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/iansan/iansan3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 203,
+    "name": "iansan4",
+    "character": "iansan",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/iansan/iansan4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 204,
+    "name": "iansan5",
+    "character": "iansan",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/iansan/iansan5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 205,
+    "name": "iansan6",
+    "character": "iansan",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/iansan/iansan6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 206,
+    "name": "ifa1",
+    "character": "ifa",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/ifa/ifa1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 207,
+    "name": "jean1",
+    "character": "jean",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/jean/jean1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 208,
+    "name": "jean2",
+    "character": "jean",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/jean/jean2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 209,
+    "name": "jean3",
+    "character": "jean",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/jean/jean3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 210,
+    "name": "jean4",
+    "character": "jean",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/jean/jean4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 211,
+    "name": "jean5",
+    "character": "jean",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/jean/jean5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 212,
+    "name": "jean6",
+    "character": "jean",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/jean/jean6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 213,
+    "name": "jean7",
+    "character": "jean",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/jean/jean7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 214,
+    "name": "kachina1",
+    "character": "kachina",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kachina/kachina1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 215,
+    "name": "kachina2",
+    "character": "kachina",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kachina/kachina2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 216,
+    "name": "kachina3",
+    "character": "kachina",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kachina/kachina3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 217,
+    "name": "kachina4",
+    "character": "kachina",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kachina/kachina4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 218,
+    "name": "kachina5",
+    "character": "kachina",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kachina/kachina5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 219,
+    "name": "kaedeharakazuha1",
+    "character": "kaedeharakazuha",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kaedeharakazuha/kaedeharakazuha1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 220,
+    "name": "kaedeharakazuha2",
+    "character": "kaedeharakazuha",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kaedeharakazuha/kaedeharakazuha2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 221,
+    "name": "kaedeharakazuha3",
+    "character": "kaedeharakazuha",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kaedeharakazuha/kaedeharakazuha3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 222,
+    "name": "kaedeharakazuha4",
+    "character": "kaedeharakazuha",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kaedeharakazuha/kaedeharakazuha4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 223,
+    "name": "kaedeharakazuha5",
+    "character": "kaedeharakazuha",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kaedeharakazuha/kaedeharakazuha5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 224,
+    "name": "kaedeharakazuha6",
+    "character": "kaedeharakazuha",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kaedeharakazuha/kaedeharakazuha6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 225,
+    "name": "kaedeharakazuha7",
+    "character": "kaedeharakazuha",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kaedeharakazuha/kaedeharakazuha7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 226,
+    "name": "kaedeharakazuha8",
+    "character": "kaedeharakazuha",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kaedeharakazuha/kaedeharakazuha8.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 227,
+    "name": "kaeya1",
+    "character": "kaeya",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kaeya/kaeya1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 228,
+    "name": "kaeya2",
+    "character": "kaeya",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kaeya/kaeya2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 229,
+    "name": "kaeya3",
+    "character": "kaeya",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kaeya/kaeya3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 230,
+    "name": "kaeya4",
+    "character": "kaeya",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kaeya/kaeya4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 231,
+    "name": "kaeya5",
+    "character": "kaeya",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kaeya/kaeya5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 232,
+    "name": "kaeya6",
+    "character": "kaeya",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kaeya/kaeya6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 233,
+    "name": "kamisatoayaka1",
+    "character": "kamisatoayaka",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kamisatoayaka/kamisatoayaka1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 234,
+    "name": "kamisatoayaka10",
+    "character": "kamisatoayaka",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kamisatoayaka/kamisatoayaka10.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 235,
+    "name": "kamisatoayaka11",
+    "character": "kamisatoayaka",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kamisatoayaka/kamisatoayaka11.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 236,
+    "name": "kamisatoayaka2",
+    "character": "kamisatoayaka",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kamisatoayaka/kamisatoayaka2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 237,
+    "name": "kamisatoayaka3",
+    "character": "kamisatoayaka",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kamisatoayaka/kamisatoayaka3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 238,
+    "name": "kamisatoayaka4",
+    "character": "kamisatoayaka",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kamisatoayaka/kamisatoayaka4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 239,
+    "name": "kamisatoayaka5",
+    "character": "kamisatoayaka",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kamisatoayaka/kamisatoayaka5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 240,
+    "name": "kamisatoayaka6",
+    "character": "kamisatoayaka",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kamisatoayaka/kamisatoayaka6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 241,
+    "name": "kamisatoayaka7",
+    "character": "kamisatoayaka",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kamisatoayaka/kamisatoayaka7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 242,
+    "name": "kamisatoayaka8",
+    "character": "kamisatoayaka",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kamisatoayaka/kamisatoayaka8.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 243,
+    "name": "kamisatoayaka9",
+    "character": "kamisatoayaka",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kamisatoayaka/kamisatoayaka9.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 244,
+    "name": "kamisatoayato1",
+    "character": "kamisatoayato",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kamisatoayato/kamisatoayato1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 245,
+    "name": "kamisatoayato2",
+    "character": "kamisatoayato",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kamisatoayato/kamisatoayato2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 246,
+    "name": "kamisatoayato3",
+    "character": "kamisatoayato",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kamisatoayato/kamisatoayato3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 247,
+    "name": "kamisatoayato4",
+    "character": "kamisatoayato",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kamisatoayato/kamisatoayato4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 248,
+    "name": "kamisatoayato5",
+    "character": "kamisatoayato",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kamisatoayato/kamisatoayato5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 249,
+    "name": "kaveh1",
+    "character": "kaveh",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kaveh/kaveh1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 250,
+    "name": "kaveh2",
+    "character": "kaveh",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kaveh/kaveh2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 251,
+    "name": "kaveh3",
+    "character": "kaveh",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kaveh/kaveh3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 252,
+    "name": "kaveh4",
+    "character": "kaveh",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kaveh/kaveh4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 253,
+    "name": "kaveh5",
+    "character": "kaveh",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kaveh/kaveh5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 254,
+    "name": "kaveh6",
+    "character": "kaveh",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kaveh/kaveh6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 255,
+    "name": "kaveh7",
+    "character": "kaveh",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kaveh/kaveh7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 256,
+    "name": "kaveh8",
+    "character": "kaveh",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kaveh/kaveh8.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 257,
+    "name": "keqing1",
+    "character": "keqing",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/keqing/keqing1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 258,
+    "name": "keqing2",
+    "character": "keqing",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/keqing/keqing2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 259,
+    "name": "keqing3",
+    "character": "keqing",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/keqing/keqing3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 260,
+    "name": "keqing4",
+    "character": "keqing",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/keqing/keqing4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 261,
+    "name": "keqing5",
+    "character": "keqing",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/keqing/keqing5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 262,
+    "name": "keqing6",
+    "character": "keqing",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/keqing/keqing6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 263,
+    "name": "keqing7",
+    "character": "keqing",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/keqing/keqing7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 264,
+    "name": "kinich1",
+    "character": "kinich",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kinich/kinich1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 265,
+    "name": "kinich2",
+    "character": "kinich",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kinich/kinich2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 266,
+    "name": "kinich3",
+    "character": "kinich",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kinich/kinich3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 267,
+    "name": "kinich4",
+    "character": "kinich",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kinich/kinich4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 268,
+    "name": "kirara1",
+    "character": "kirara",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kirara/kirara1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 269,
+    "name": "kirara2",
+    "character": "kirara",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kirara/kirara2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 270,
+    "name": "kirara3",
+    "character": "kirara",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kirara/kirara3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 271,
+    "name": "kirara4",
+    "character": "kirara",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kirara/kirara4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 272,
+    "name": "kirara5",
+    "character": "kirara",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kirara/kirara5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 273,
+    "name": "kirara6",
+    "character": "kirara",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kirara/kirara6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 274,
+    "name": "kirara7",
+    "character": "kirara",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kirara/kirara7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 275,
+    "name": "klee1",
+    "character": "klee",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/klee/klee1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 276,
+    "name": "klee2",
+    "character": "klee",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/klee/klee2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 277,
+    "name": "klee3",
+    "character": "klee",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/klee/klee3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 278,
+    "name": "klee4",
+    "character": "klee",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/klee/klee4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 279,
+    "name": "klee5",
+    "character": "klee",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/klee/klee5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 280,
+    "name": "klee6",
+    "character": "klee",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/klee/klee6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 281,
+    "name": "klee7",
+    "character": "klee",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/klee/klee7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 282,
+    "name": "kujousara1",
+    "character": "kujousara",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kujousara/kujousara1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 283,
+    "name": "kujousara2",
+    "character": "kujousara",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kujousara/kujousara2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 284,
+    "name": "kujousara3",
+    "character": "kujousara",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kujousara/kujousara3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 285,
+    "name": "kujousara4",
+    "character": "kujousara",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kujousara/kujousara4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 286,
+    "name": "kukishinobu1",
+    "character": "kukishinobu",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kukishinobu/kukishinobu1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 287,
+    "name": "kukishinobu2",
+    "character": "kukishinobu",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kukishinobu/kukishinobu2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 288,
+    "name": "kukishinobu3",
+    "character": "kukishinobu",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kukishinobu/kukishinobu3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 289,
+    "name": "kukishinobu4",
+    "character": "kukishinobu",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/kukishinobu/kukishinobu4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 290,
+    "name": "lanyan1",
+    "character": "lanyan",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/lanyan/lanyan1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 291,
+    "name": "lanyan2",
+    "character": "lanyan",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/lanyan/lanyan2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 292,
+    "name": "lanyan3",
+    "character": "lanyan",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/lanyan/lanyan3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 293,
+    "name": "layla1",
+    "character": "layla",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/layla/layla1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 294,
+    "name": "layla2",
+    "character": "layla",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/layla/layla2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 295,
+    "name": "layla3",
+    "character": "layla",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/layla/layla3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 296,
+    "name": "layla4",
+    "character": "layla",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/layla/layla4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 297,
+    "name": "layla5",
+    "character": "layla",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/layla/layla5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 298,
+    "name": "lisa1",
+    "character": "lisa",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/lisa/lisa1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 299,
+    "name": "lisa2",
+    "character": "lisa",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/lisa/lisa2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 300,
+    "name": "lisa3",
+    "character": "lisa",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/lisa/lisa3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 301,
+    "name": "lumine1",
+    "character": "lumine",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/lumine/lumine1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 302,
+    "name": "lumine2",
+    "character": "lumine",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/lumine/lumine2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 303,
+    "name": "lynette1",
+    "character": "lynette",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/lynette/lynette1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 304,
+    "name": "lynette2",
+    "character": "lynette",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/lynette/lynette2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 305,
+    "name": "lynette3",
+    "character": "lynette",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/lynette/lynette3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 306,
+    "name": "lynette4",
+    "character": "lynette",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/lynette/lynette4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 307,
+    "name": "lynette5",
+    "character": "lynette",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/lynette/lynette5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 308,
+    "name": "lynette6",
+    "character": "lynette",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/lynette/lynette6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 309,
+    "name": "lynette7",
+    "character": "lynette",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/lynette/lynette7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 310,
+    "name": "lyney1",
+    "character": "lyney",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/lyney/lyney1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 311,
+    "name": "lyney2",
+    "character": "lyney",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/lyney/lyney2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 312,
+    "name": "lyney3",
+    "character": "lyney",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/lyney/lyney3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 313,
+    "name": "lyney4",
+    "character": "lyney",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/lyney/lyney4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 314,
+    "name": "lyney5",
+    "character": "lyney",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/lyney/lyney5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 315,
+    "name": "lyney6",
+    "character": "lyney",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/lyney/lyney6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 316,
+    "name": "mavuika1",
+    "character": "mavuika",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/mavuika/mavuika1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 317,
+    "name": "mavuika2",
+    "character": "mavuika",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/mavuika/mavuika2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 318,
+    "name": "mavuika3",
+    "character": "mavuika",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/mavuika/mavuika3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 319,
+    "name": "mavuika4",
+    "character": "mavuika",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/mavuika/mavuika4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 320,
+    "name": "mavuika5",
+    "character": "mavuika",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/mavuika/mavuika5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 321,
+    "name": "mavuika6",
+    "character": "mavuika",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/mavuika/mavuika6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 322,
+    "name": "mavuika7",
+    "character": "mavuika",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/mavuika/mavuika7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 323,
+    "name": "mika1",
+    "character": "mika",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/mika/mika1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 324,
+    "name": "mika2",
+    "character": "mika",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/mika/mika2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 325,
+    "name": "mika3",
+    "character": "mika",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/mika/mika3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 326,
+    "name": "mika4",
+    "character": "mika",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/mika/mika4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 327,
+    "name": "mona1",
+    "character": "mona",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/mona/mona1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 328,
+    "name": "mona2",
+    "character": "mona",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/mona/mona2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 329,
+    "name": "mona3",
+    "character": "mona",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/mona/mona3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 330,
+    "name": "mona4",
+    "character": "mona",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/mona/mona4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 331,
+    "name": "mona5",
+    "character": "mona",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/mona/mona5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 332,
+    "name": "mona6",
+    "character": "mona",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/mona/mona6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 333,
+    "name": "mona7",
+    "character": "mona",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/mona/mona7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 334,
+    "name": "mualani1",
+    "character": "mualani",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/mualani/mualani1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 335,
+    "name": "mualani2",
+    "character": "mualani",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/mualani/mualani2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 336,
+    "name": "mualani3",
+    "character": "mualani",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/mualani/mualani3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 337,
+    "name": "mualani4",
+    "character": "mualani",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/mualani/mualani4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 338,
+    "name": "mualani5",
+    "character": "mualani",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/mualani/mualani5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 339,
+    "name": "nahida1",
+    "character": "nahida",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/nahida/nahida1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 340,
+    "name": "nahida2",
+    "character": "nahida",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/nahida/nahida2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 341,
+    "name": "nahida3",
+    "character": "nahida",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/nahida/nahida3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 342,
+    "name": "nahida4",
+    "character": "nahida",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/nahida/nahida4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 343,
+    "name": "nahida5",
+    "character": "nahida",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/nahida/nahida5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 344,
+    "name": "nahida6",
+    "character": "nahida",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/nahida/nahida6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 345,
+    "name": "nahida7",
+    "character": "nahida",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/nahida/nahida7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 346,
+    "name": "nahida8",
+    "character": "nahida",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/nahida/nahida8.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 347,
+    "name": "nahida9",
+    "character": "nahida",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/nahida/nahida9.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 348,
+    "name": "navia1",
+    "character": "navia",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/navia/navia1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 349,
+    "name": "navia2",
+    "character": "navia",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/navia/navia2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 350,
+    "name": "navia3",
+    "character": "navia",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/navia/navia3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 351,
+    "name": "navia4",
+    "character": "navia",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/navia/navia4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 352,
+    "name": "navia5",
+    "character": "navia",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/navia/navia5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 353,
+    "name": "navia6",
+    "character": "navia",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/navia/navia6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 354,
+    "name": "navia7",
+    "character": "navia",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/navia/navia7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 355,
+    "name": "navia8",
+    "character": "navia",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/navia/navia8.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 356,
+    "name": "navia9",
+    "character": "navia",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/navia/navia9.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 357,
+    "name": "neuvillette1",
+    "character": "neuvillette",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/neuvillette/neuvillette1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 358,
+    "name": "neuvillette2",
+    "character": "neuvillette",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/neuvillette/neuvillette2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 359,
+    "name": "neuvillette3",
+    "character": "neuvillette",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/neuvillette/neuvillette3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 360,
+    "name": "neuvillette4",
+    "character": "neuvillette",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/neuvillette/neuvillette4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 361,
+    "name": "neuvillette5",
+    "character": "neuvillette",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/neuvillette/neuvillette5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 362,
+    "name": "nilou1",
+    "character": "nilou",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/nilou/nilou1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 363,
+    "name": "nilou2",
+    "character": "nilou",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/nilou/nilou2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 364,
+    "name": "nilou3",
+    "character": "nilou",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/nilou/nilou3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 365,
+    "name": "nilou4",
+    "character": "nilou",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/nilou/nilou4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 366,
+    "name": "nilou5",
+    "character": "nilou",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/nilou/nilou5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 367,
+    "name": "nilou6",
+    "character": "nilou",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/nilou/nilou6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 368,
+    "name": "ningguang1",
+    "character": "ningguang",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/ningguang/ningguang1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 369,
+    "name": "ningguang2",
+    "character": "ningguang",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/ningguang/ningguang2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 370,
+    "name": "ningguang3",
+    "character": "ningguang",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/ningguang/ningguang3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 371,
+    "name": "noelle1",
+    "character": "noelle",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/noelle/noelle1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 372,
+    "name": "ororon1",
+    "character": "ororon",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/ororon/ororon1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 373,
+    "name": "ororon2",
+    "character": "ororon",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/ororon/ororon2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 374,
+    "name": "ororon3",
+    "character": "ororon",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/ororon/ororon3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 375,
+    "name": "ororon4",
+    "character": "ororon",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/ororon/ororon4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 376,
+    "name": "ororon5",
+    "character": "ororon",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/ororon/ororon5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 377,
+    "name": "ororon6",
+    "character": "ororon",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/ororon/ororon6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 378,
+    "name": "ajaw1",
+    "character": "other",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/other/ajaw1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 379,
+    "name": "ajaw2",
+    "character": "other",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/other/ajaw2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 380,
+    "name": "baku",
+    "character": "other",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/other/baku.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 381,
+    "name": "capitano",
+    "character": "other",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/other/capitano.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 382,
+    "name": "cloudretainer",
+    "character": "other",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/other/cloudretainer.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 383,
+    "name": "dog1",
+    "character": "other",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/other/dog1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 384,
+    "name": "dog2",
+    "character": "other",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/other/dog2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 385,
+    "name": "floatinganemofungus",
+    "character": "other",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/other/floatinganemofungus.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 386,
+    "name": "floatinghydrofungus",
+    "character": "other",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/other/floatinghydrofungus.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 387,
+    "name": "groundedgeoshroom",
+    "character": "other",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/other/groundedgeoshroom.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 388,
+    "name": "groundedhydroshroom",
+    "character": "other",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/other/groundedhydroshroom.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 389,
+    "name": "guoba",
+    "character": "other",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/other/guoba.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 390,
+    "name": "littleone1",
+    "character": "other",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/other/littleone1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 391,
+    "name": "littleone2",
+    "character": "other",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/other/littleone2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 392,
+    "name": "minidurin",
+    "character": "other",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/other/minidurin.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 393,
+    "name": "origamihamsters",
+    "character": "other",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/other/origamihamsters.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 394,
+    "name": "prince",
+    "character": "other",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/other/prince.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 395,
+    "name": "rattandolls",
+    "character": "other",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/other/rattandolls.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 396,
+    "name": "rhodeiaofloch1",
+    "character": "other",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/other/rhodeiaofloch1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 397,
+    "name": "rhodeiaofloch2",
+    "character": "other",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/other/rhodeiaofloch2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 398,
+    "name": "samurai1",
+    "character": "other",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/other/samurai1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 399,
+    "name": "samurai2",
+    "character": "other",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/other/samurai2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 400,
+    "name": "saurian1",
+    "character": "other",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/other/saurian1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 401,
+    "name": "saurian2",
+    "character": "other",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/other/saurian2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 402,
+    "name": "saurian3",
+    "character": "other",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/other/saurian3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 403,
+    "name": "simulankatoytaniumminer",
+    "character": "other",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/other/simulankatoytaniumminer.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 404,
+    "name": "sorusharanara",
+    "character": "other",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/other/sorusharanara.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 405,
+    "name": "stretchypyrofungus&stretchyelectrofungus",
+    "character": "other",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/other/stretchypyrofungus&stretchyelectrofungus.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 406,
+    "name": "tanuki1",
+    "character": "other",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/other/tanuki1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 407,
+    "name": "tanuki2",
+    "character": "other",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/other/tanuki2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 408,
+    "name": "wingeddendroshroom",
+    "character": "other",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/other/wingeddendroshroom.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 409,
+    "name": "wolfy1",
+    "character": "other",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/other/wolfy1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 410,
+    "name": "wolfy2",
+    "character": "other",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/other/wolfy2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 411,
+    "name": "yuegui1",
+    "character": "other",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/other/yuegui1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 412,
+    "name": "yuegui2",
+    "character": "other",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/other/yuegui2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 413,
+    "name": "yuegui3",
+    "character": "other",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/other/yuegui3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 414,
+    "name": "yuegui4",
+    "character": "other",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/other/yuegui4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 415,
+    "name": "paimon1",
+    "character": "paimon",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/paimon/paimon1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 416,
+    "name": "paimon10",
+    "character": "paimon",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/paimon/paimon10.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 417,
+    "name": "paimon11",
+    "character": "paimon",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/paimon/paimon11.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 418,
+    "name": "paimon12",
+    "character": "paimon",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/paimon/paimon12.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 419,
+    "name": "paimon2",
+    "character": "paimon",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/paimon/paimon2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 420,
+    "name": "paimon3",
+    "character": "paimon",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/paimon/paimon3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 421,
+    "name": "paimon4",
+    "character": "paimon",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/paimon/paimon4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 422,
+    "name": "paimon5",
+    "character": "paimon",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/paimon/paimon5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 423,
+    "name": "paimon6",
+    "character": "paimon",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/paimon/paimon6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 424,
+    "name": "paimon7",
+    "character": "paimon",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/paimon/paimon7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 425,
+    "name": "paimon8",
+    "character": "paimon",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/paimon/paimon8.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 426,
+    "name": "paimon9",
+    "character": "paimon",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/paimon/paimon9.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 427,
+    "name": "qiqi1",
+    "character": "qiqi",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/qiqi/qiqi1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 428,
+    "name": "qiqi2",
+    "character": "qiqi",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/qiqi/qiqi2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 429,
+    "name": "qiqi3",
+    "character": "qiqi",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/qiqi/qiqi3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 430,
+    "name": "raidenshogun1",
+    "character": "raidenshogun",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/raidenshogun/raidenshogun1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 431,
+    "name": "raidenshogun10",
+    "character": "raidenshogun",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/raidenshogun/raidenshogun10.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 432,
+    "name": "raidenshogun11",
+    "character": "raidenshogun",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/raidenshogun/raidenshogun11.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 433,
+    "name": "raidenshogun12",
+    "character": "raidenshogun",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/raidenshogun/raidenshogun12.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 434,
+    "name": "raidenshogun13",
+    "character": "raidenshogun",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/raidenshogun/raidenshogun13.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 435,
+    "name": "raidenshogun2",
+    "character": "raidenshogun",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/raidenshogun/raidenshogun2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 436,
+    "name": "raidenshogun3",
+    "character": "raidenshogun",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/raidenshogun/raidenshogun3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 437,
+    "name": "raidenshogun4",
+    "character": "raidenshogun",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/raidenshogun/raidenshogun4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 438,
+    "name": "raidenshogun5",
+    "character": "raidenshogun",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/raidenshogun/raidenshogun5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 439,
+    "name": "raidenshogun6",
+    "character": "raidenshogun",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/raidenshogun/raidenshogun6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 440,
+    "name": "raidenshogun7",
+    "character": "raidenshogun",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/raidenshogun/raidenshogun7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 441,
+    "name": "raidenshogun8",
+    "character": "raidenshogun",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/raidenshogun/raidenshogun8.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 442,
+    "name": "raidenshogun9",
+    "character": "raidenshogun",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/raidenshogun/raidenshogun9.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 443,
+    "name": "razor1",
+    "character": "razor",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/razor/razor1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 444,
+    "name": "razor2",
+    "character": "razor",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/razor/razor2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 445,
+    "name": "razor3",
+    "character": "razor",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/razor/razor3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 446,
+    "name": "razor4",
+    "character": "razor",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/razor/razor4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 447,
+    "name": "rosaria1",
+    "character": "rosaria",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/rosaria/rosaria1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 448,
+    "name": "rosaria2",
+    "character": "rosaria",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/rosaria/rosaria2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 449,
+    "name": "rosaria3",
+    "character": "rosaria",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/rosaria/rosaria3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 450,
+    "name": "rosaria4",
+    "character": "rosaria",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/rosaria/rosaria4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 451,
+    "name": "rosaria5",
+    "character": "rosaria",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/rosaria/rosaria5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 452,
+    "name": "sangonomiyakokomi1",
+    "character": "sangonomiyakokomi",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/sangonomiyakokomi/sangonomiyakokomi1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 453,
+    "name": "sangonomiyakokomi10",
+    "character": "sangonomiyakokomi",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/sangonomiyakokomi/sangonomiyakokomi10.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 454,
+    "name": "sangonomiyakokomi11",
+    "character": "sangonomiyakokomi",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/sangonomiyakokomi/sangonomiyakokomi11.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 455,
+    "name": "sangonomiyakokomi2",
+    "character": "sangonomiyakokomi",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/sangonomiyakokomi/sangonomiyakokomi2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 456,
+    "name": "sangonomiyakokomi3",
+    "character": "sangonomiyakokomi",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/sangonomiyakokomi/sangonomiyakokomi3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 457,
+    "name": "sangonomiyakokomi4",
+    "character": "sangonomiyakokomi",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/sangonomiyakokomi/sangonomiyakokomi4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 458,
+    "name": "sangonomiyakokomi5",
+    "character": "sangonomiyakokomi",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/sangonomiyakokomi/sangonomiyakokomi5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 459,
+    "name": "sangonomiyakokomi6",
+    "character": "sangonomiyakokomi",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/sangonomiyakokomi/sangonomiyakokomi6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 460,
+    "name": "sangonomiyakokomi7",
+    "character": "sangonomiyakokomi",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/sangonomiyakokomi/sangonomiyakokomi7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 461,
+    "name": "sangonomiyakokomi8",
+    "character": "sangonomiyakokomi",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/sangonomiyakokomi/sangonomiyakokomi8.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 462,
+    "name": "sangonomiyakokomi9",
+    "character": "sangonomiyakokomi",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/sangonomiyakokomi/sangonomiyakokomi9.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 463,
+    "name": "sayu1",
+    "character": "sayu",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/sayu/sayu1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 464,
+    "name": "sayu2",
+    "character": "sayu",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/sayu/sayu2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 465,
+    "name": "sayu3",
+    "character": "sayu",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/sayu/sayu3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 466,
+    "name": "sayu4",
+    "character": "sayu",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/sayu/sayu4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 467,
+    "name": "sayu5",
+    "character": "sayu",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/sayu/sayu5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 468,
+    "name": "sethos1",
+    "character": "sethos",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/sethos/sethos1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 469,
+    "name": "sethos2",
+    "character": "sethos",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/sethos/sethos2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 470,
+    "name": "sethos3",
+    "character": "sethos",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/sethos/sethos3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 471,
+    "name": "sethos4",
+    "character": "sethos",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/sethos/sethos4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 472,
+    "name": "sethos5",
+    "character": "sethos",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/sethos/sethos5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 473,
+    "name": "shenhe1",
+    "character": "shenhe",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/shenhe/shenhe1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 474,
+    "name": "shenhe2",
+    "character": "shenhe",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/shenhe/shenhe2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 475,
+    "name": "shenhe3",
+    "character": "shenhe",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/shenhe/shenhe3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 476,
+    "name": "shenhe4",
+    "character": "shenhe",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/shenhe/shenhe4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 477,
+    "name": "shenhe5",
+    "character": "shenhe",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/shenhe/shenhe5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 478,
+    "name": "shenhe6",
+    "character": "shenhe",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/shenhe/shenhe6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 479,
+    "name": "sigewinne1",
+    "character": "sigewinne",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/sigewinne/sigewinne1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 480,
+    "name": "sigewinne2",
+    "character": "sigewinne",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/sigewinne/sigewinne2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 481,
+    "name": "sigewinne3",
+    "character": "sigewinne",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/sigewinne/sigewinne3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 482,
+    "name": "sigewinne4",
+    "character": "sigewinne",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/sigewinne/sigewinne4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 483,
+    "name": "sucrose1",
+    "character": "sucrose",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/sucrose/sucrose1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 484,
+    "name": "sucrose10",
+    "character": "sucrose",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/sucrose/sucrose10.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 485,
+    "name": "sucrose2",
+    "character": "sucrose",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/sucrose/sucrose2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 486,
+    "name": "sucrose3",
+    "character": "sucrose",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/sucrose/sucrose3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 487,
+    "name": "sucrose4",
+    "character": "sucrose",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/sucrose/sucrose4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 488,
+    "name": "sucrose5",
+    "character": "sucrose",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/sucrose/sucrose5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 489,
+    "name": "sucrose6",
+    "character": "sucrose",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/sucrose/sucrose6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 490,
+    "name": "sucrose7",
+    "character": "sucrose",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/sucrose/sucrose7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 491,
+    "name": "sucrose8",
+    "character": "sucrose",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/sucrose/sucrose8.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 492,
+    "name": "sucrose9",
+    "character": "sucrose",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/sucrose/sucrose9.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 493,
+    "name": "thoma1",
+    "character": "thoma",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/thoma/thoma1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 494,
+    "name": "thoma2",
+    "character": "thoma",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/thoma/thoma2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 495,
+    "name": "thoma3",
+    "character": "thoma",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/thoma/thoma3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 496,
+    "name": "thoma4",
+    "character": "thoma",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/thoma/thoma4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 497,
+    "name": "thoma5",
+    "character": "thoma",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/thoma/thoma5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 498,
+    "name": "thoma6",
+    "character": "thoma",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/thoma/thoma6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 499,
+    "name": "thoma7",
+    "character": "thoma",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/thoma/thoma7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 500,
+    "name": "tighnari1",
+    "character": "tighnari",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/tighnari/tighnari1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 501,
+    "name": "tighnari2",
+    "character": "tighnari",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/tighnari/tighnari2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 502,
+    "name": "tighnari3",
+    "character": "tighnari",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/tighnari/tighnari3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 503,
+    "name": "tighnari4",
+    "character": "tighnari",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/tighnari/tighnari4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 504,
+    "name": "tighnari5",
+    "character": "tighnari",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/tighnari/tighnari5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 505,
+    "name": "tighnari6",
+    "character": "tighnari",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/tighnari/tighnari6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 506,
+    "name": "tighnari7",
+    "character": "tighnari",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/tighnari/tighnari7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 507,
+    "name": "tighnari8",
+    "character": "tighnari",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/tighnari/tighnari8.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 508,
+    "name": "varesa1",
+    "character": "varesa",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/varesa/varesa1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 509,
+    "name": "varesa2",
+    "character": "varesa",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/varesa/varesa2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 510,
+    "name": "varesa3",
+    "character": "varesa",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/varesa/varesa3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 511,
+    "name": "varesa4",
+    "character": "varesa",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/varesa/varesa4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 512,
+    "name": "venti1",
+    "character": "venti",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/venti/venti1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 513,
+    "name": "venti10",
+    "character": "venti",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/venti/venti10.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 514,
+    "name": "venti11",
+    "character": "venti",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/venti/venti11.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 515,
+    "name": "venti12",
+    "character": "venti",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/venti/venti12.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 516,
+    "name": "venti2",
+    "character": "venti",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/venti/venti2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 517,
+    "name": "venti3",
+    "character": "venti",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/venti/venti3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 518,
+    "name": "venti4",
+    "character": "venti",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/venti/venti4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 519,
+    "name": "venti5",
+    "character": "venti",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/venti/venti5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 520,
+    "name": "venti6",
+    "character": "venti",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/venti/venti6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 521,
+    "name": "venti7",
+    "character": "venti",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/venti/venti7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 522,
+    "name": "venti8",
+    "character": "venti",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/venti/venti8.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 523,
+    "name": "venti9",
+    "character": "venti",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/venti/venti9.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 524,
+    "name": "vishap1",
+    "character": "vishap",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/vishap/vishap1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 525,
+    "name": "vishap2",
+    "character": "vishap",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/vishap/vishap2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 526,
+    "name": "vishap3",
+    "character": "vishap",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/vishap/vishap3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 527,
+    "name": "vishap4",
+    "character": "vishap",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/vishap/vishap4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 528,
+    "name": "wanderer1",
+    "character": "wanderer",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/wanderer/wanderer1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 529,
+    "name": "wanderer10",
+    "character": "wanderer",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/wanderer/wanderer10.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 530,
+    "name": "wanderer2",
+    "character": "wanderer",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/wanderer/wanderer2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 531,
+    "name": "wanderer3",
+    "character": "wanderer",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/wanderer/wanderer3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 532,
+    "name": "wanderer4",
+    "character": "wanderer",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/wanderer/wanderer4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 533,
+    "name": "wanderer5",
+    "character": "wanderer",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/wanderer/wanderer5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 534,
+    "name": "wanderer6",
+    "character": "wanderer",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/wanderer/wanderer6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 535,
+    "name": "wanderer7",
+    "character": "wanderer",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/wanderer/wanderer7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 536,
+    "name": "wanderer8",
+    "character": "wanderer",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/wanderer/wanderer8.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 537,
+    "name": "wanderer9",
+    "character": "wanderer",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/wanderer/wanderer9.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 538,
+    "name": "wriothesley1",
+    "character": "wriothesley",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/wriothesley/wriothesley1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 539,
+    "name": "wriothesley2",
+    "character": "wriothesley",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/wriothesley/wriothesley2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 540,
+    "name": "wriothesley3",
+    "character": "wriothesley",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/wriothesley/wriothesley3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 541,
+    "name": "wriothesley4",
+    "character": "wriothesley",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/wriothesley/wriothesley4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 542,
+    "name": "xiangling1",
+    "character": "xiangling",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xiangling/xiangling1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 543,
+    "name": "xiangling2",
+    "character": "xiangling",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xiangling/xiangling2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 544,
+    "name": "xiangling3",
+    "character": "xiangling",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xiangling/xiangling3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 545,
+    "name": "xiangling4",
+    "character": "xiangling",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xiangling/xiangling4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 546,
+    "name": "xianyun1",
+    "character": "xianyun",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xianyun/xianyun1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 547,
+    "name": "xianyun2",
+    "character": "xianyun",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xianyun/xianyun2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 548,
+    "name": "xianyun3",
+    "character": "xianyun",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xianyun/xianyun3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 549,
+    "name": "xianyun4",
+    "character": "xianyun",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xianyun/xianyun4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 550,
+    "name": "xiao1",
+    "character": "xiao",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xiao/xiao1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 551,
+    "name": "xiao10",
+    "character": "xiao",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xiao/xiao10.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 552,
+    "name": "xiao11",
+    "character": "xiao",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xiao/xiao11.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 553,
+    "name": "xiao12",
+    "character": "xiao",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xiao/xiao12.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 554,
+    "name": "xiao13",
+    "character": "xiao",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xiao/xiao13.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 555,
+    "name": "xiao2",
+    "character": "xiao",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xiao/xiao2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 556,
+    "name": "xiao3",
+    "character": "xiao",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xiao/xiao3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 557,
+    "name": "xiao4",
+    "character": "xiao",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xiao/xiao4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 558,
+    "name": "xiao5",
+    "character": "xiao",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xiao/xiao5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 559,
+    "name": "xiao6",
+    "character": "xiao",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xiao/xiao6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 560,
+    "name": "xiao7",
+    "character": "xiao",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xiao/xiao7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 561,
+    "name": "xiao8",
+    "character": "xiao",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xiao/xiao8.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 562,
+    "name": "xiao9",
+    "character": "xiao",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xiao/xiao9.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 563,
+    "name": "xilonen1",
+    "character": "xilonen",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xilonen/xilonen1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 564,
+    "name": "xilonen2",
+    "character": "xilonen",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xilonen/xilonen2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 565,
+    "name": "xilonen3",
+    "character": "xilonen",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xilonen/xilonen3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 566,
+    "name": "xilonen4",
+    "character": "xilonen",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xilonen/xilonen4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 567,
+    "name": "xilonen5",
+    "character": "xilonen",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xilonen/xilonen5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 568,
+    "name": "xingqiu1",
+    "character": "xingqiu",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xingqiu/xingqiu1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 569,
+    "name": "xingqiu2",
+    "character": "xingqiu",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xingqiu/xingqiu2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 570,
+    "name": "xingqiu3",
+    "character": "xingqiu",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xingqiu/xingqiu3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 571,
+    "name": "xingqiu4",
+    "character": "xingqiu",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xingqiu/xingqiu4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 572,
+    "name": "xingqiu5",
+    "character": "xingqiu",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xingqiu/xingqiu5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 573,
+    "name": "xinyan1",
+    "character": "xinyan",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xinyan/xinyan1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 574,
+    "name": "xinyan2",
+    "character": "xinyan",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xinyan/xinyan2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 575,
+    "name": "xinyan3",
+    "character": "xinyan",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xinyan/xinyan3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 576,
+    "name": "xinyan4",
+    "character": "xinyan",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xinyan/xinyan4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 577,
+    "name": "xinyan5",
+    "character": "xinyan",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xinyan/xinyan5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 578,
+    "name": "xinyan6",
+    "character": "xinyan",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xinyan/xinyan6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 579,
+    "name": "xinyan7",
+    "character": "xinyan",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/xinyan/xinyan7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 580,
+    "name": "yaemiko1",
+    "character": "yaemiko",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yaemiko/yaemiko1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 581,
+    "name": "yaemiko2",
+    "character": "yaemiko",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yaemiko/yaemiko2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 582,
+    "name": "yaemiko3",
+    "character": "yaemiko",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yaemiko/yaemiko3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 583,
+    "name": "yaemiko4",
+    "character": "yaemiko",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yaemiko/yaemiko4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 584,
+    "name": "yaemiko5",
+    "character": "yaemiko",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yaemiko/yaemiko5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 585,
+    "name": "yaemiko6",
+    "character": "yaemiko",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yaemiko/yaemiko6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 586,
+    "name": "yaemiko7",
+    "character": "yaemiko",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yaemiko/yaemiko7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 587,
+    "name": "yanfei1",
+    "character": "yanfei",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yanfei/yanfei1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 588,
+    "name": "yanfei2",
+    "character": "yanfei",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yanfei/yanfei2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 589,
+    "name": "yanfei3",
+    "character": "yanfei",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yanfei/yanfei3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 590,
+    "name": "yanfei4",
+    "character": "yanfei",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yanfei/yanfei4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 591,
+    "name": "yanfei5",
+    "character": "yanfei",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yanfei/yanfei5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 592,
+    "name": "yanfei6",
+    "character": "yanfei",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yanfei/yanfei6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 593,
+    "name": "yanfei7",
+    "character": "yanfei",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yanfei/yanfei7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 594,
+    "name": "yaoyao1",
+    "character": "yaoyao",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yaoyao/yaoyao1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 595,
+    "name": "yaoyao2",
+    "character": "yaoyao",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yaoyao/yaoyao2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 596,
+    "name": "yaoyao3",
+    "character": "yaoyao",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yaoyao/yaoyao3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 597,
+    "name": "yaoyao4",
+    "character": "yaoyao",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yaoyao/yaoyao4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 598,
+    "name": "yelan1",
+    "character": "yelan",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yelan/yelan1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 599,
+    "name": "yelan2",
+    "character": "yelan",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yelan/yelan2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 600,
+    "name": "yelan3",
+    "character": "yelan",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yelan/yelan3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 601,
+    "name": "yelan4",
+    "character": "yelan",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yelan/yelan4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 602,
+    "name": "yelan5",
+    "character": "yelan",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yelan/yelan5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 603,
+    "name": "yoimiya1",
+    "character": "yoimiya",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yoimiya/yoimiya1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 604,
+    "name": "yoimiya10",
+    "character": "yoimiya",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yoimiya/yoimiya10.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 605,
+    "name": "yoimiya11",
+    "character": "yoimiya",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yoimiya/yoimiya11.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 606,
+    "name": "yoimiya12",
+    "character": "yoimiya",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yoimiya/yoimiya12.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 607,
+    "name": "yoimiya2",
+    "character": "yoimiya",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yoimiya/yoimiya2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 608,
+    "name": "yoimiya3",
+    "character": "yoimiya",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yoimiya/yoimiya3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 609,
+    "name": "yoimiya4",
+    "character": "yoimiya",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yoimiya/yoimiya4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 610,
+    "name": "yoimiya5",
+    "character": "yoimiya",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yoimiya/yoimiya5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 611,
+    "name": "yoimiya6",
+    "character": "yoimiya",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yoimiya/yoimiya6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 612,
+    "name": "yoimiya7",
+    "character": "yoimiya",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yoimiya/yoimiya7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 613,
+    "name": "yoimiya8",
+    "character": "yoimiya",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yoimiya/yoimiya8.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 614,
+    "name": "yoimiya9",
+    "character": "yoimiya",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yoimiya/yoimiya9.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 615,
+    "name": "yumemizukimizuki1",
+    "character": "yumemizukimizuki",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yumemizukimizuki/yumemizukimizuki1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 616,
+    "name": "yumemizukimizuki2",
+    "character": "yumemizukimizuki",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yumemizukimizuki/yumemizukimizuki2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 617,
+    "name": "yumemizukimizuki3",
+    "character": "yumemizukimizuki",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yumemizukimizuki/yumemizukimizuki3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 618,
+    "name": "yumemizukimizuki4",
+    "character": "yumemizukimizuki",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yumemizukimizuki/yumemizukimizuki4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 619,
+    "name": "yumemizukimizuki5",
+    "character": "yumemizukimizuki",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yumemizukimizuki/yumemizukimizuki5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 620,
+    "name": "yunjin1",
+    "character": "yunjin",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yunjin/yunjin1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 621,
+    "name": "yunjin2",
+    "character": "yunjin",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yunjin/yunjin2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 622,
+    "name": "yunjin3",
+    "character": "yunjin",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yunjin/yunjin3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 623,
+    "name": "yunjin4",
+    "character": "yunjin",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/yunjin/yunjin4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 624,
+    "name": "zhongli1",
+    "character": "zhongli",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/zhongli/zhongli1.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 625,
+    "name": "zhongli2",
+    "character": "zhongli",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/zhongli/zhongli2.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 626,
+    "name": "zhongli3",
+    "character": "zhongli",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/zhongli/zhongli3.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 627,
+    "name": "zhongli4",
+    "character": "zhongli",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/zhongli/zhongli4.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 628,
+    "name": "zhongli5",
+    "character": "zhongli",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/zhongli/zhongli5.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 629,
+    "name": "zhongli6",
+    "character": "zhongli",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/zhongli/zhongli6.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  },
+  {
+    "id": 630,
+    "name": "zhongli7",
+    "character": "zhongli",
+    "tag": "Genshin Impact",
+    "img": "Genshin_Impact/zhongli/zhongli7.png",
+    "color": "#F09A04",
+    "defaultText": {
+      "text": "MSS",
+      "x": 148,
+      "y": 58,
+      "r": -2,
+      "s": 47
+    }
+  }
+]

@@ -1,7 +1,9 @@
 import "./App.css";
 import Canvas from "./components/Canvas";
 import { useState, useEffect } from "react";
-import characters from "./characters.json";
+import genshinCharacters from "./characters/genshin_impact.json";
+import starRailCharacters from "./characters/honkai_star_rail.json";
+import wuwaCharacters from "./characters/wuthering_waves.json";
 import Slider from "@mui/material/Slider";
 import TextField from "@mui/material/TextField";
 import Button from "@mui/material/Button";
@@ -11,6 +13,13 @@ import Info from "./components/Info";
 import getConfiguration from "./utils/config";
 import log from "./utils/log";
 import { CirclePicker } from "react-color";
+
+// Merge all character arrays into one
+const characters = [
+  ...genshinCharacters,
+  ...starRailCharacters,
+  ...wuwaCharacters
+];
 
 const { ClipboardItem } = window;
 
