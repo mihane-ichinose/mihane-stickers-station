@@ -59,10 +59,8 @@ function App() {
     setLoaded(false);
   }, [character]);
 
-  // When using npm start locally the NODE_ENV is 'development', uses mihane-stickers-station/img/
-  // When using npm run build on Github Pages the NODE_ENV is 'production', uses img/
-  const publicUrl = process.env.NODE_ENV === 'development' ? 'mihane-stickers-station/' : '';
-  img.src = `${publicUrl}img/` + characters[character].img;
+  // Use PUBLIC_URL to handle paths for both development and production
+  img.src = `${process.env.PUBLIC_URL}/img/` + characters[character].img;
 
   img.onload = () => {
     setLoaded(true);
