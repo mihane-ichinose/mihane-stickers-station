@@ -1,6 +1,6 @@
 import "./App.css";
 import Canvas from "./components/Canvas";
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import genshinCharacters from "./characters/genshin_impact.json";
 import starRailCharacters from "./characters/honkai_star_rail.json";
 import wuwaCharacters from "./characters/wuthering_waves.json";
@@ -25,11 +25,10 @@ const { ClipboardItem } = window;
 
 function App() {
   useEffect(() => {
-    try {
-      getConfiguration();
-    } catch (error) {
-      console.log(error);
-    }
+    // Best-effort config fetch; ignore failures so viewer still loads offline/CORS-blocked
+    getConfiguration().catch((error) => {
+      console.log("config fetch skipped", error);
+    });
   }, []);
 
   const [infoOpen, setInfoOpen] = useState(false);
@@ -55,7 +54,8 @@ function App() {
   const [curve, setCurve] = useState(false);
   const [loaded, setLoaded] = useState(false);
   const [fontColor, setFontColor] = useState(characters[character].color);
-  const img = new Image();
+  const [fontReady, setFontReady] = useState(document.fonts.check("12px YurukaStd"));
+  const imgRef = useRef(new Image());
 
   useEffect(() => {
     setText(characters[character].defaultText.text);
@@ -65,15 +65,31 @@ function App() {
     });
     setRotate(characters[character].defaultText.r);
     setFontSize(characters[character].defaultText.s);
+
+    const img = imgRef.current;
+    const handleLoad = () => setLoaded(true);
+    const handleError = () => setLoaded(false);
+
     setLoaded(false);
+    img.onload = handleLoad;
+    img.onerror = handleError;
+    img.src = `${process.env.PUBLIC_URL}/img/` + characters[character].img;
+
+    return () => {
+      img.onload = null;
+      img.onerror = null;
+    };
   }, [character]);
 
-  // Use PUBLIC_URL to handle paths for both development and production
-  img.src = `${process.env.PUBLIC_URL}/img/` + characters[character].img;
-
-  img.onload = () => {
-    setLoaded(true);
-  };
+  useEffect(() => {
+    let active = true;
+    document.fonts.ready.then(() => {
+      if (active) setFontReady(true);
+    });
+    return () => {
+      active = false;
+    };
+  }, []);
 
   let angle = (Math.PI * text.length) / 7;
 
@@ -81,7 +97,9 @@ function App() {
     ctx.canvas.width = 296;
     ctx.canvas.height = 256;
 
-    if (loaded && document.fonts.check("12px YurukaStd")) {
+    const img = imgRef.current;
+
+    if (loaded && fontReady && img.complete && img.width > 0) {
       var hRatio = ctx.canvas.width / img.width;
       var vRatio = ctx.canvas.height / img.height;
       var ratio = Math.min(hRatio, vRatio);
